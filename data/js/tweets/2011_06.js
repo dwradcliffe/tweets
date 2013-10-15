@@ -14,14 +14,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "85719119701360642",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "85733709914972160",
   "in_reply_to_user_id" : 11071302,
   "text" : "@PeteThePlanner That's the ONLY really free site.",
   "id" : 85733709914972160,
   "in_reply_to_status_id" : 85719119701360642,
-  "created_at" : "Tue Jun 28 15:38:03 +0000 2011",
+  "created_at" : "2011-06-28 15:38:03 +0000",
   "in_reply_to_screen_name" : "PeteThePlanner",
   "in_reply_to_user_id_str" : "11071302",
   "user" : {
@@ -41,12 +40,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "85732701717528576",
   "text" : "Dear pushy insurance agent, You lost my business because you wouldn't leave me alone. How many times did I have to say don't call me again?",
   "id" : 85732701717528576,
-  "created_at" : "Tue Jun 28 15:34:03 +0000 2011",
+  "created_at" : "2011-06-28 15:34:03 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -71,14 +69,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "83253096096088064",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "83254601792487424",
   "in_reply_to_user_id" : 15674759,
   "text" : "@pingdom The timestamps are WAY off... alerts from the past _few months_ seem to be coming in.",
   "id" : 83254601792487424,
   "in_reply_to_status_id" : 83253096096088064,
-  "created_at" : "Tue Jun 21 19:26:58 +0000 2011",
+  "created_at" : "2011-06-21 19:26:58 +0000",
   "in_reply_to_screen_name" : "pingdom",
   "in_reply_to_user_id_str" : "15674759",
   "user" : {
@@ -105,14 +102,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "83153580453924864",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "83154162707210241",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard Yikes... just can't sleep?",
   "id" : 83154162707210241,
   "in_reply_to_status_id" : 83153580453924864,
-  "created_at" : "Tue Jun 21 12:47:51 +0000 2011",
+  "created_at" : "2011-06-21 12:47:51 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -145,14 +141,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "83032720573337600",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "83144487802634241",
   "in_reply_to_user_id" : 243775912,
   "text" : "@kickofflabs I use @namecheap",
   "id" : 83144487802634241,
   "in_reply_to_status_id" : 83032720573337600,
-  "created_at" : "Tue Jun 21 12:09:25 +0000 2011",
+  "created_at" : "2011-06-21 12:09:25 +0000",
   "in_reply_to_screen_name" : "kickofflabs",
   "in_reply_to_user_id_str" : "243775912",
   "user" : {
@@ -179,14 +174,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "83141539777359872",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "83142013100376064",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard It's morning!",
   "id" : 83142013100376064,
   "in_reply_to_status_id" : 83141539777359872,
-  "created_at" : "Tue Jun 21 11:59:35 +0000 2011",
+  "created_at" : "2011-06-21 11:59:35 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -212,12 +206,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "83141958574407680",
   "text" : "RT @jshields Paul's words to Philippi, Forget yesterday's failures, recenter in Christ, and chase His Heart. His grace is sufficient.",
   "id" : 83141958574407680,
-  "created_at" : "Tue Jun 21 11:59:22 +0000 2011",
+  "created_at" : "2011-06-21 11:59:22 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -242,14 +235,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "83139660590743553",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "83139954988957697",
   "in_reply_to_user_id" : 716553,
   "text" : "@Mitski Yes, Network Solutions is under a DDOS attack.",
   "id" : 83139954988957697,
   "in_reply_to_status_id" : 83139660590743553,
-  "created_at" : "Tue Jun 21 11:51:24 +0000 2011",
+  "created_at" : "2011-06-21 11:51:24 +0000",
   "in_reply_to_screen_name" : "Mitski",
   "in_reply_to_user_id_str" : "716553",
   "user" : {
@@ -280,13 +272,12 @@ Grailbird.data.tweets_2011_06 =
       "display_url" : "skitch.com/dwradcliffe/ff\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82897866632343553",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane File uploads? http://t.co/2Zsn4ke",
   "id" : 82897866632343553,
-  "created_at" : "Mon Jun 20 19:49:26 +0000 2011",
+  "created_at" : "2011-06-20 19:49:26 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -313,14 +304,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82896196242374656",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82897011921268738",
   "in_reply_to_user_id" : 867511,
   "text" : "@joelmoss What kind of templates are you looking for?",
   "id" : 82897011921268738,
   "in_reply_to_status_id" : 82896196242374656,
-  "created_at" : "Mon Jun 20 19:46:02 +0000 2011",
+  "created_at" : "2011-06-20 19:46:02 +0000",
   "in_reply_to_screen_name" : "joelmoss",
   "in_reply_to_user_id_str" : "867511",
   "user" : {
@@ -347,14 +337,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82877501482868736",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82878274405007360",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane Just version, the rest (that I've tried) look good.",
   "id" : 82878274405007360,
   "in_reply_to_status_id" : 82877501482868736,
-  "created_at" : "Mon Jun 20 18:31:35 +0000 2011",
+  "created_at" : "2011-06-20 18:31:35 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -381,14 +370,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82876065084743680",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82876358216261632",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane version command needs a line break at the end",
   "id" : 82876358216261632,
   "in_reply_to_status_id" : 82876065084743680,
-  "created_at" : "Mon Jun 20 18:23:58 +0000 2011",
+  "created_at" : "2011-06-20 18:23:58 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -415,14 +403,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82870740357099522",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82875736523948033",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane Much better! thanks",
   "id" : 82875736523948033,
   "in_reply_to_status_id" : 82870740357099522,
-  "created_at" : "Mon Jun 20 18:21:30 +0000 2011",
+  "created_at" : "2011-06-20 18:21:30 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -449,14 +436,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82848055644258304",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82849933039894528",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane Even that command gives me the error right away. :(",
   "id" : 82849933039894528,
   "in_reply_to_status_id" : 82848055644258304,
-  "created_at" : "Mon Jun 20 16:38:57 +0000 2011",
+  "created_at" : "2011-06-20 16:38:57 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -472,7 +458,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Network Solutions ",
+      "name" : "Network Solutions",
       "screen_name" : "netsolcares",
       "indices" : [ 0, 12 ],
       "id_str" : "14714040",
@@ -482,13 +468,12 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82849726814363648",
   "in_reply_to_user_id" : 14714040,
   "text" : "@netsolcares Is your DNS down?",
   "id" : 82849726814363648,
-  "created_at" : "Mon Jun 20 16:38:08 +0000 2011",
+  "created_at" : "2011-06-20 16:38:08 +0000",
   "in_reply_to_screen_name" : "netsolcares",
   "in_reply_to_user_id_str" : "14714040",
   "user" : {
@@ -508,12 +493,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82849553447006208",
   "text" : "Looks like network solutions DNS (worldnic.com) is down.",
   "id" : 82849553447006208,
-  "created_at" : "Mon Jun 20 16:37:27 +0000 2011",
+  "created_at" : "2011-06-20 16:37:27 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -538,14 +522,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82844611273433088",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82844978379886592",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane Installed ok. Any command returns \"We couldn't authenticate you. Double check your credentials.\"",
   "id" : 82844978379886592,
   "in_reply_to_status_id" : 82844611273433088,
-  "created_at" : "Mon Jun 20 16:19:16 +0000 2011",
+  "created_at" : "2011-06-20 16:19:16 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -572,14 +555,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82843613310091264",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82843960510382081",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane Cool! I'm just excited to try it! Was just looking for something like this!",
   "id" : 82843960510382081,
   "in_reply_to_status_id" : 82843613310091264,
-  "created_at" : "Mon Jun 20 16:15:14 +0000 2011",
+  "created_at" : "2011-06-20 16:15:14 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -605,13 +587,12 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82839509942808576",
   "in_reply_to_user_id" : 267959832,
   "text" : "@codeplane You need a blog post on setting up the cli.",
   "id" : 82839509942808576,
-  "created_at" : "Mon Jun 20 15:57:32 +0000 2011",
+  "created_at" : "2011-06-20 15:57:32 +0000",
   "in_reply_to_screen_name" : "codeplane",
   "in_reply_to_user_id_str" : "267959832",
   "user" : {
@@ -643,14 +624,13 @@ Grailbird.data.tweets_2011_06 =
     } ]
   },
   "in_reply_to_status_id_str" : "82829100472991746",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82830161648693248",
   "in_reply_to_user_id" : 15930954,
   "text" : "@karlseguin My own site. (well, both) http://t.co/Z9R3Eri",
   "id" : 82830161648693248,
   "in_reply_to_status_id" : 82829100472991746,
-  "created_at" : "Mon Jun 20 15:20:24 +0000 2011",
+  "created_at" : "2011-06-20 15:20:24 +0000",
   "in_reply_to_screen_name" : "karlseguin",
   "in_reply_to_user_id_str" : "15930954",
   "user" : {
@@ -677,14 +657,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "82760645518438401",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82829024434454528",
   "in_reply_to_user_id" : 15930954,
   "text" : "@karlseguin I'm seeing the same about:blank thing... did you find out why?",
   "id" : 82829024434454528,
   "in_reply_to_status_id" : 82760645518438401,
-  "created_at" : "Mon Jun 20 15:15:52 +0000 2011",
+  "created_at" : "2011-06-20 15:15:52 +0000",
   "in_reply_to_screen_name" : "karlseguin",
   "in_reply_to_user_id_str" : "15930954",
   "user" : {
@@ -707,12 +686,11 @@ Grailbird.data.tweets_2011_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82824991632146432",
   "text" : "I'm looking for a good contract lawyer in #indy. Any suggestions?",
   "id" : 82824991632146432,
-  "created_at" : "Mon Jun 20 14:59:51 +0000 2011",
+  "created_at" : "2011-06-20 14:59:51 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -730,12 +708,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82804836323700737",
   "text" : "And here comes another round of storms... hoping the power stays on!",
   "id" : 82804836323700737,
-  "created_at" : "Mon Jun 20 13:39:46 +0000 2011",
+  "created_at" : "2011-06-20 13:39:46 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -764,8 +741,7 @@ Grailbird.data.tweets_2011_06 =
       "display_url" : "ehow.com/how_2120468_bu\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "82803900922597376",
   "text" : "RT @charleswolff: Just in case anyone else needs this... | http://t.co/3n9JAa0",
   "retweeted_status" : {
@@ -781,12 +757,11 @@ Grailbird.data.tweets_2011_06 =
         "display_url" : "ehow.com/how_2120468_bu\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "82801479253098496",
     "text" : "Just in case anyone else needs this... | http://t.co/3n9JAa0",
     "id" : 82801479253098496,
-    "created_at" : "Mon Jun 20 13:26:25 +0000 2011",
+    "created_at" : "2011-06-20 13:26:25 +0000",
     "user" : {
       "name" : "Charles Wolff",
       "screen_name" : "charleswolff",
@@ -798,7 +773,7 @@ Grailbird.data.tweets_2011_06 =
     }
   },
   "id" : 82803900922597376,
-  "created_at" : "Mon Jun 20 13:36:03 +0000 2011",
+  "created_at" : "2011-06-20 13:36:03 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -828,7 +803,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "81949726748049408",
   "text" : "Completed credenza! http://t.co/8sHVpVw",
   "id" : 81949726748049408,
-  "created_at" : "Sat Jun 18 05:01:52 +0000 2011",
+  "created_at" : "2011-06-18 05:01:52 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -858,7 +833,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "81885880159186945",
   "text" : "These are just SOME of the parts of ONE of the pieces of the new desk....yikes! http://t.co/YHOPsES",
   "id" : 81885880159186945,
-  "created_at" : "Sat Jun 18 00:48:09 +0000 2011",
+  "created_at" : "2011-06-18 00:48:09 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -883,14 +858,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "81745183863087105",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "81754137582252032",
   "in_reply_to_user_id" : 22777656,
   "text" : "@timuchan Working on a saturday?!",
   "id" : 81754137582252032,
   "in_reply_to_status_id" : 81745183863087105,
-  "created_at" : "Fri Jun 17 16:04:39 +0000 2011",
+  "created_at" : "2011-06-17 16:04:39 +0000",
   "in_reply_to_screen_name" : "timuchan",
   "in_reply_to_user_id_str" : "22777656",
   "user" : {
@@ -910,12 +884,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "81722764993634304",
   "text" : "I think every web app should be required to have a /pricing url. I hate apps that dont show me pricing upfront.",
   "id" : 81722764993634304,
-  "created_at" : "Fri Jun 17 14:00:00 +0000 2011",
+  "created_at" : "2011-06-17 14:00:00 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -940,14 +913,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "81718887707717632",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "81721704296103937",
   "in_reply_to_user_id" : 13678852,
   "text" : "@jmccartie I use Hoptoad, but I'm curious what others have to say too.",
   "id" : 81721704296103937,
   "in_reply_to_status_id" : 81718887707717632,
-  "created_at" : "Fri Jun 17 13:55:47 +0000 2011",
+  "created_at" : "2011-06-17 13:55:47 +0000",
   "in_reply_to_screen_name" : "jmccartie",
   "in_reply_to_user_id_str" : "13678852",
   "user" : {
@@ -982,8 +954,7 @@ Grailbird.data.tweets_2011_06 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "81721016333762560",
   "text" : "RT @Wendys: Retweet to help kids in need! Each RT sends 50\u00A2 to the @DTFA #TreatItFwd bit.ly/a1b43",
   "retweeted_status" : {
@@ -1003,12 +974,11 @@ Grailbird.data.tweets_2011_06 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "78933784250159104",
     "text" : "Retweet to help kids in need! Each RT sends 50\u00A2 to the @DTFA #TreatItFwd bit.ly/a1b43",
     "id" : 78933784250159104,
-    "created_at" : "Thu Jun 09 21:17:35 +0000 2011",
+    "created_at" : "2011-06-09 21:17:35 +0000",
     "user" : {
       "name" : "Wendy's",
       "screen_name" : "Wendys",
@@ -1020,7 +990,7 @@ Grailbird.data.tweets_2011_06 =
     }
   },
   "id" : 81721016333762560,
-  "created_at" : "Fri Jun 17 13:53:03 +0000 2011",
+  "created_at" : "2011-06-17 13:53:03 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1045,7 +1015,7 @@ Grailbird.data.tweets_2011_06 =
   "id_str" : "79522063844507648",
   "text" : "Having a garage sale! Come and get it!",
   "id" : 79522063844507648,
-  "created_at" : "Sat Jun 11 12:15:12 +0000 2011",
+  "created_at" : "2011-06-11 12:15:12 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1073,7 +1043,7 @@ Grailbird.data.tweets_2011_06 =
   "text" : "@pdanielgriffith thanks!! Have fun on your trip!",
   "id" : 79291211789242368,
   "in_reply_to_status_id" : 79283038583914496,
-  "created_at" : "Fri Jun 10 20:57:52 +0000 2011",
+  "created_at" : "2011-06-10 20:57:52 +0000",
   "in_reply_to_screen_name" : "pdangriff",
   "in_reply_to_user_id_str" : "89048329",
   "user" : {
@@ -1100,14 +1070,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "78441307269382144",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "78441869847171072",
   "in_reply_to_user_id" : 15132847,
   "text" : "@JeremySkinner It's got some way over the top PHP architecture.",
   "id" : 78441869847171072,
   "in_reply_to_status_id" : 78441307269382144,
-  "created_at" : "Wed Jun 08 12:42:53 +0000 2011",
+  "created_at" : "2011-06-08 12:42:53 +0000",
   "in_reply_to_screen_name" : "JeremySkinner",
   "in_reply_to_user_id_str" : "15132847",
   "user" : {
@@ -1134,14 +1103,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "78424248867233792",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "78440740593733633",
   "in_reply_to_user_id" : 15132847,
   "text" : "@JeremySkinner Have you seen the Magento source code?",
   "id" : 78440740593733633,
   "in_reply_to_status_id" : 78424248867233792,
-  "created_at" : "Wed Jun 08 12:38:24 +0000 2011",
+  "created_at" : "2011-06-08 12:38:24 +0000",
   "in_reply_to_screen_name" : "JeremySkinner",
   "in_reply_to_user_id_str" : "15132847",
   "user" : {
@@ -1168,14 +1136,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "78185595574292480",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "78186379338719232",
   "in_reply_to_user_id" : 22777656,
   "text" : "@timuchan Got some projects lined up?",
   "id" : 78186379338719232,
   "in_reply_to_status_id" : 78185595574292480,
-  "created_at" : "Tue Jun 07 19:47:40 +0000 2011",
+  "created_at" : "2011-06-07 19:47:40 +0000",
   "in_reply_to_screen_name" : "timuchan",
   "in_reply_to_user_id_str" : "22777656",
   "user" : {
@@ -1202,14 +1169,13 @@ Grailbird.data.tweets_2011_06 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "78179226121019392",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "78185109186035712",
   "in_reply_to_user_id" : 22777656,
   "text" : "@timuchan Congrats!!",
   "id" : 78185109186035712,
   "in_reply_to_status_id" : 78179226121019392,
-  "created_at" : "Tue Jun 07 19:42:37 +0000 2011",
+  "created_at" : "2011-06-07 19:42:37 +0000",
   "in_reply_to_screen_name" : "timuchan",
   "in_reply_to_user_id_str" : "22777656",
   "user" : {
@@ -1229,12 +1195,11 @@ Grailbird.data.tweets_2011_06 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "76052091809959936",
   "text" : "Dear Lenny's: Thanks for the free birthday sub. PS: How did you get my name, address and birthday?",
   "id" : 76052091809959936,
-  "created_at" : "Wed Jun 01 22:26:46 +0000 2011",
+  "created_at" : "2011-06-01 22:26:46 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

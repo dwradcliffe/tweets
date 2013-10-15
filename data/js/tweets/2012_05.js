@@ -13,12 +13,11 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "208184185792376833",
   "text" : "It's @katieradcliffe's last day teaching 2nd grade. She's worked hard this year and I'm proud!",
   "id" : 208184185792376833,
-  "created_at" : "Thu May 31 13:12:32 +0000 2012",
+  "created_at" : "2012-05-31 13:12:32 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -42,13 +41,12 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207863130359996416",
   "in_reply_to_user_id" : 298023205,
   "text" : "@airbrakeapp What happened to the resolve all exceptions link in project settings?",
   "id" : 207863130359996416,
-  "created_at" : "Wed May 30 15:56:46 +0000 2012",
+  "created_at" : "2012-05-30 15:56:46 +0000",
   "in_reply_to_screen_name" : "airbrake",
   "in_reply_to_user_id_str" : "298023205",
   "user" : {
@@ -71,12 +69,11 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "207844601422286850",
   "text" : "So it looks like Foursquare checkins sent to Facebook are properly geotagged now. #itsabouttime",
   "id" : 207844601422286850,
-  "created_at" : "Wed May 30 14:43:09 +0000 2012",
+  "created_at" : "2012-05-30 14:43:09 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -100,12 +97,11 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205991929270378496",
   "text" : "Love the @usaa rental car benefits!",
   "id" : 205991929270378496,
-  "created_at" : "Fri May 25 12:01:17 +0000 2012",
+  "created_at" : "2012-05-25 12:01:17 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -130,14 +126,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "205660587546517505",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205665892288311296",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard Well that just looks like fun",
   "id" : 205665892288311296,
   "in_reply_to_status_id" : 205660587546517505,
-  "created_at" : "Thu May 24 14:25:44 +0000 2012",
+  "created_at" : "2012-05-24 14:25:44 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -164,14 +159,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "205578669983416321",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "205623773435662336",
   "in_reply_to_user_id" : 14980856,
   "text" : "@MikeRogers0 Thoughts on Diet Coda?",
   "id" : 205623773435662336,
   "in_reply_to_status_id" : 205578669983416321,
-  "created_at" : "Thu May 24 11:38:22 +0000 2012",
+  "created_at" : "2012-05-24 11:38:22 +0000",
   "in_reply_to_screen_name" : "MikeRogers0",
   "in_reply_to_user_id_str" : "14980856",
   "user" : {
@@ -197,8 +191,7 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "204953723053674497",
   "text" : "RT @schneems: Sextant: A Gem to Help you Find your Routes - News flash, writing a Rails app without knowing your routes is... http://t.c ...",
   "retweeted_status" : {
@@ -214,12 +207,11 @@ Grailbird.data.tweets_2012_05 =
         "display_url" : "tmblr.co/Zsci_xLxJwIM"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "204934953979478016",
     "text" : "Sextant: A Gem to Help you Find your Routes - News flash, writing a Rails app without knowing your routes is... http://t.co/iCVwInI9",
     "id" : 204934953979478016,
-    "created_at" : "Tue May 22 14:01:15 +0000 2012",
+    "created_at" : "2012-05-22 14:01:15 +0000",
     "user" : {
       "name" : "Richard Schneeman",
       "screen_name" : "schneems",
@@ -231,7 +223,7 @@ Grailbird.data.tweets_2012_05 =
     }
   },
   "id" : 204953723053674497,
-  "created_at" : "Tue May 22 15:15:50 +0000 2012",
+  "created_at" : "2012-05-22 15:15:50 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -261,7 +253,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "204937273656094721",
   "text" : "My view for the morning  @ The Speak Easy http://t.co/s5X5mpMq",
   "id" : 204937273656094721,
-  "created_at" : "Tue May 22 14:10:28 +0000 2012",
+  "created_at" : "2012-05-22 14:10:28 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -285,8 +277,7 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "203681289616896000",
   "text" : "RT @katieradcliffe: Avengers was great. This superhero nut is pleased. Gimme a good old fashioned brawl and some quick wit and im all in ...",
   "retweeted_status" : {
@@ -303,12 +294,11 @@ Grailbird.data.tweets_2012_05 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "203680894647681024",
     "text" : "Avengers was great. This superhero nut is pleased. Gimme a good old fashioned brawl and some quick wit and im all in #hulksmash #jarvis",
     "id" : 203680894647681024,
-    "created_at" : "Sat May 19 02:58:04 +0000 2012",
+    "created_at" : "2012-05-19 02:58:04 +0000",
     "user" : {
       "name" : "Katie Radcliffe",
       "screen_name" : "katieradcliffe",
@@ -320,7 +310,7 @@ Grailbird.data.tweets_2012_05 =
     }
   },
   "id" : 203681289616896000,
-  "created_at" : "Sat May 19 02:59:38 +0000 2012",
+  "created_at" : "2012-05-19 02:59:38 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -338,12 +328,11 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "202033715025678337",
   "text" : "Oh monday. Let's get moving.",
   "id" : 202033715025678337,
-  "created_at" : "Mon May 14 13:52:45 +0000 2012",
+  "created_at" : "2012-05-14 13:52:45 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -373,7 +362,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "201073287055417345",
   "text" : "Date with my wife!!  @ Charbonos http://t.co/OE7uUnoK",
   "id" : 201073287055417345,
-  "created_at" : "Fri May 11 22:16:22 +0000 2012",
+  "created_at" : "2012-05-11 22:16:22 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -397,13 +386,12 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "201028935142752256",
   "in_reply_to_user_id" : 13334762,
   "text" : "@github I'm unable to pull or access your website. When pages do load its very very slow. Any known issues?",
   "id" : 201028935142752256,
-  "created_at" : "Fri May 11 19:20:07 +0000 2012",
+  "created_at" : "2012-05-11 19:20:07 +0000",
   "in_reply_to_screen_name" : "github",
   "in_reply_to_user_id_str" : "13334762",
   "user" : {
@@ -430,14 +418,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200952135997861888",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200954854145925120",
   "in_reply_to_user_id" : 38049300,
   "text" : "@hugoware I actually have noticed this recently",
   "id" : 200954854145925120,
   "in_reply_to_status_id" : 200952135997861888,
-  "created_at" : "Fri May 11 14:25:45 +0000 2012",
+  "created_at" : "2012-05-11 14:25:45 +0000",
   "in_reply_to_screen_name" : "hugoware",
   "in_reply_to_user_id_str" : "38049300",
   "user" : {
@@ -464,14 +451,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200931658348773377",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200943371039158272",
   "in_reply_to_user_id" : 8262232,
   "text" : "@loswhit Why?",
   "id" : 200943371039158272,
   "in_reply_to_status_id" : 200931658348773377,
-  "created_at" : "Fri May 11 13:40:07 +0000 2012",
+  "created_at" : "2012-05-11 13:40:07 +0000",
   "in_reply_to_screen_name" : "loswhit",
   "in_reply_to_user_id_str" : "8262232",
   "user" : {
@@ -503,7 +489,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "200714571311349760",
   "text" : "Rescuing my wife's keys from the hot locked car...  @ Monical's Pizza http://t.co/8dv20weT",
   "id" : 200714571311349760,
-  "created_at" : "Thu May 10 22:30:57 +0000 2012",
+  "created_at" : "2012-05-10 22:30:57 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -528,14 +514,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200596111776432128",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200675551676088320",
   "in_reply_to_user_id" : 63050671,
   "text" : "@SteveGladen I'm building a new tool to help offline small groups use online technology. Halfway between traditional and your online groups.",
   "id" : 200675551676088320,
   "in_reply_to_status_id" : 200596111776432128,
-  "created_at" : "Thu May 10 19:55:54 +0000 2012",
+  "created_at" : "2012-05-10 19:55:54 +0000",
   "in_reply_to_screen_name" : "SteveGladen",
   "in_reply_to_user_id_str" : "63050671",
   "user" : {
@@ -561,8 +546,7 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200414466502955008",
   "text" : "RT @holman: Your product will never make everyone happy. So focus on exciting a subset of everyone. They'll handle the rest.",
   "retweeted_status" : {
@@ -573,12 +557,11 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200375487334326272",
     "text" : "Your product will never make everyone happy. So focus on exciting a subset of everyone. They'll handle the rest.",
     "id" : 200375487334326272,
-    "created_at" : "Thu May 10 00:03:33 +0000 2012",
+    "created_at" : "2012-05-10 00:03:33 +0000",
     "user" : {
       "name" : "Zach Holman",
       "screen_name" : "holman",
@@ -590,7 +573,7 @@ Grailbird.data.tweets_2012_05 =
     }
   },
   "id" : 200414466502955008,
-  "created_at" : "Thu May 10 02:38:26 +0000 2012",
+  "created_at" : "2012-05-10 02:38:26 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -615,14 +598,13 @@ Grailbird.data.tweets_2012_05 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "200271214831341569",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200280072526102529",
   "in_reply_to_user_id" : 13334762,
   "text" : "@github Are the new icons open sourced or available for use outside github?",
   "id" : 200280072526102529,
   "in_reply_to_status_id" : 200271214831341569,
-  "created_at" : "Wed May 09 17:44:24 +0000 2012",
+  "created_at" : "2012-05-09 17:44:24 +0000",
   "in_reply_to_screen_name" : "github",
   "in_reply_to_user_id_str" : "13334762",
   "user" : {
@@ -648,8 +630,7 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "200178013361553408",
   "text" : "RT @ryanseddon: Dear MSFT: Ship IE10 already. Kill off IE6-9. With Fire. Only then will folks stop posting about unsupporting IE and cal ...",
   "retweeted_status" : {
@@ -660,12 +641,11 @@ Grailbird.data.tweets_2012_05 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "200075995095633922",
     "text" : "Dear MSFT: Ship IE10 already. Kill off IE6-9. With Fire. Only then will folks stop posting about unsupporting IE and calling it a feature.",
     "id" : 200075995095633922,
-    "created_at" : "Wed May 09 04:13:29 +0000 2012",
+    "created_at" : "2012-05-09 04:13:29 +0000",
     "user" : {
       "name" : "Ryan Seddon",
       "screen_name" : "ryanseddon",
@@ -677,7 +657,7 @@ Grailbird.data.tweets_2012_05 =
     }
   },
   "id" : 200178013361553408,
-  "created_at" : "Wed May 09 10:58:52 +0000 2012",
+  "created_at" : "2012-05-09 10:58:52 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -706,12 +686,11 @@ Grailbird.data.tweets_2012_05 =
       "display_url" : "spoti.fi/spotifyipad"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "197658780568268800",
   "text" : "Finally! \"@Spotify: Introducing the lean, green, music machine \u2013 Spotify for iPad. It\u2019s here. It\u2019s beautiful. Try it. http://t.co/z0w6kZ1V\"",
   "id" : 197658780568268800,
-  "created_at" : "Wed May 02 12:08:20 +0000 2012",
+  "created_at" : "2012-05-02 12:08:20 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

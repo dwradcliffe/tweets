@@ -22,7 +22,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "64316595538886656",
   "text" : "Planting flowers #weloveavon http://t.co/y0EWAnL",
   "id" : 64316595538886656,
-  "created_at" : "Sat Apr 30 13:14:05 +0000 2011",
+  "created_at" : "2011-04-30 13:14:05 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -45,12 +45,11 @@ Grailbird.data.tweets_2011_04 =
       "display_url" : "twitpic.com/4r6jp3"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "64122230577176577",
   "text" : "Grilling! http://t.co/YseDdxy",
   "id" : 64122230577176577,
-  "created_at" : "Sat Apr 30 00:21:45 +0000 2011",
+  "created_at" : "2011-04-30 00:21:45 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -74,13 +73,12 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "61972152425005056",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard fat chance :)",
   "id" : 61972152425005056,
-  "created_at" : "Sun Apr 24 01:58:07 +0000 2011",
+  "created_at" : "2011-04-24 01:58:07 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -106,13 +104,12 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "61970924819329024",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard you're twitter crazy today!",
   "id" : 61970924819329024,
-  "created_at" : "Sun Apr 24 01:53:14 +0000 2011",
+  "created_at" : "2011-04-24 01:53:14 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -132,12 +129,11 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "61431443343163392",
   "text" : "Considering ditching WordPress and using something like toto: https://github.com/cloudhead/toto",
   "id" : 61431443343163392,
-  "created_at" : "Fri Apr 22 14:09:32 +0000 2011",
+  "created_at" : "2011-04-22 14:09:32 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -162,14 +158,13 @@ Grailbird.data.tweets_2011_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "61198659865423872",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "61239433713811457",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard Read this: http://bit.ly/f40gqR",
   "id" : 61239433713811457,
   "in_reply_to_status_id" : 61198659865423872,
-  "created_at" : "Fri Apr 22 01:26:33 +0000 2011",
+  "created_at" : "2011-04-22 01:26:33 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -195,8 +190,7 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "61159021247340544",
   "text" : "RT @lukewelling: Predicting a Silicon Valley baby boom in January 2012 as a side effect of the great 2011 EC2 blackout.",
   "retweeted_status" : {
@@ -207,12 +201,11 @@ Grailbird.data.tweets_2011_04 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "61153737082814464",
     "text" : "Predicting a Silicon Valley baby boom in January 2012 as a side effect of the great 2011 EC2 blackout.",
     "id" : 61153737082814464,
-    "created_at" : "Thu Apr 21 19:46:01 +0000 2011",
+    "created_at" : "2011-04-21 19:46:01 +0000",
     "user" : {
       "name" : "Luke Welling",
       "screen_name" : "lukewelling",
@@ -224,7 +217,7 @@ Grailbird.data.tweets_2011_04 =
     }
   },
   "id" : 61159021247340544,
-  "created_at" : "Thu Apr 21 20:07:01 +0000 2011",
+  "created_at" : "2011-04-21 20:07:01 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -242,12 +235,11 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "61156412612558848",
   "text" : "What a day for the internet.",
   "id" : 61156412612558848,
-  "created_at" : "Thu Apr 21 19:56:39 +0000 2011",
+  "created_at" : "2011-04-21 19:56:39 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -265,12 +257,11 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "60764541683904512",
   "text" : "Anyone know when the next Yahoo GBS update will be published? The 2011Q1 update didn't happen. http://developer.yahoo.com/yui/articles/gbs/",
   "id" : 60764541683904512,
-  "created_at" : "Wed Apr 20 17:59:30 +0000 2011",
+  "created_at" : "2011-04-20 17:59:30 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -294,13 +285,12 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "60736746811441153",
   "in_reply_to_user_id" : 15689539,
   "text" : "@hoptoadapp What's up with this? https://img.skitch.com/20110420-ffei7s51p37p57r5x7m53keju6.png",
   "id" : 60736746811441153,
-  "created_at" : "Wed Apr 20 16:09:03 +0000 2011",
+  "created_at" : "2011-04-20 16:09:03 +0000",
   "in_reply_to_screen_name" : "hoptoadapp",
   "in_reply_to_user_id_str" : "15689539",
   "user" : {
@@ -340,8 +330,7 @@ Grailbird.data.tweets_2011_04 =
       "display_url" : "youtube.com/watch?v=0CN_Hr\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "60726454505324545",
   "text" : "RT @stevestrunk: Very cool prank: http://t.co/RPHXmWp via @youtube #funny",
   "retweeted_status" : {
@@ -366,12 +355,11 @@ Grailbird.data.tweets_2011_04 =
         "display_url" : "youtube.com/watch?v=0CN_Hr\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "60712535426482176",
     "text" : "Very cool prank: http://t.co/RPHXmWp via @youtube #funny",
     "id" : 60712535426482176,
-    "created_at" : "Wed Apr 20 14:32:51 +0000 2011",
+    "created_at" : "2011-04-20 14:32:51 +0000",
     "user" : {
       "name" : "Steve Strunk",
       "screen_name" : "stevestrunk",
@@ -383,7 +371,7 @@ Grailbird.data.tweets_2011_04 =
     }
   },
   "id" : 60726454505324545,
-  "created_at" : "Wed Apr 20 15:28:09 +0000 2011",
+  "created_at" : "2011-04-20 15:28:09 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -401,12 +389,11 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "59265669220417536",
   "text" : "Trying to catch up on email. And all this stuff piled up on my desk.",
   "id" : 59265669220417536,
-  "created_at" : "Sat Apr 16 14:43:31 +0000 2011",
+  "created_at" : "2011-04-16 14:43:31 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -430,13 +417,12 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "58574149748129792",
   "in_reply_to_user_id" : 40487042,
   "text" : "@R0BBYF0STER Happy Birthday!!",
   "id" : 58574149748129792,
-  "created_at" : "Thu Apr 14 16:55:40 +0000 2011",
+  "created_at" : "2011-04-14 16:55:40 +0000",
   "in_reply_to_screen_name" : "R0BBYF0STER",
   "in_reply_to_user_id_str" : "40487042",
   "user" : {
@@ -463,14 +449,13 @@ Grailbird.data.tweets_2011_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "57873700460040192",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "57875741823602688",
   "in_reply_to_user_id" : 40487042,
   "text" : "@R0BBYF0STER only the best!",
   "id" : 57875741823602688,
   "in_reply_to_status_id" : 57873700460040192,
-  "created_at" : "Tue Apr 12 18:40:26 +0000 2011",
+  "created_at" : "2011-04-12 18:40:26 +0000",
   "in_reply_to_screen_name" : "R0BBYF0STER",
   "in_reply_to_user_id_str" : "40487042",
   "user" : {
@@ -497,14 +482,13 @@ Grailbird.data.tweets_2011_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "57554940528312320",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "57555700376813568",
   "in_reply_to_user_id" : 15485532,
   "text" : "@johnhawkinsrwn Combine js/css. Use one or more caching mechanisms. wp-cache is good. Or use something like varnish/nginx.",
   "id" : 57555700376813568,
   "in_reply_to_status_id" : 57554940528312320,
-  "created_at" : "Mon Apr 11 21:28:42 +0000 2011",
+  "created_at" : "2011-04-11 21:28:42 +0000",
   "in_reply_to_screen_name" : "johnhawkinsrwn",
   "in_reply_to_user_id_str" : "15485532",
   "user" : {
@@ -531,14 +515,13 @@ Grailbird.data.tweets_2011_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "57436734266425344",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "57437760973307904",
   "in_reply_to_user_id" : 15930954,
   "text" : "@karlseguin Those are the best kind of projects! Working on one myself. Who knows if anyone else will care or want to use it.",
   "id" : 57437760973307904,
   "in_reply_to_status_id" : 57436734266425344,
-  "created_at" : "Mon Apr 11 13:40:04 +0000 2011",
+  "created_at" : "2011-04-11 13:40:04 +0000",
   "in_reply_to_screen_name" : "karlseguin",
   "in_reply_to_user_id_str" : "15930954",
   "user" : {
@@ -564,12 +547,11 @@ Grailbird.data.tweets_2011_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "56086622474743808",
   "text" : "Eagerly waiting for @hoptoadapp to come back online!",
   "id" : 56086622474743808,
-  "created_at" : "Thu Apr 07 20:11:07 +0000 2011",
+  "created_at" : "2011-04-07 20:11:07 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -594,7 +576,7 @@ Grailbird.data.tweets_2011_04 =
   "id_str" : "54251351294738432",
   "text" : "Its crazy here at lowe's today! (@ Lowe's) http://4sq.com/egUw3q",
   "id" : 54251351294738432,
-  "created_at" : "Sat Apr 02 18:38:24 +0000 2011",
+  "created_at" : "2011-04-02 18:38:24 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

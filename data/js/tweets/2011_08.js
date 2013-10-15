@@ -18,8 +18,7 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "yfrog.com/o02mfrj"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108925825776230401",
   "text" : "RT @reybango: I wonder what type of website you get for $49 http://t.co/s1qyzlZ",
   "retweeted_status" : {
@@ -35,24 +34,23 @@ Grailbird.data.tweets_2011_08 =
         "display_url" : "yfrog.com/o02mfrj"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "108925308161363968",
     "text" : "I wonder what type of website you get for $49 http://t.co/s1qyzlZ",
     "id" : 108925308161363968,
-    "created_at" : "Wed Aug 31 15:33:11 +0000 2011",
+    "created_at" : "2011-08-31 15:33:11 +0000",
     "user" : {
       "name" : "Rey Bango",
       "screen_name" : "reybango",
       "protected" : false,
       "id_str" : "1589691",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3083928353/876e66c79052fd3be98610a9214bf001_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3742774565/09ba858a7751fc0faef2fb2ab1cce05c_normal.jpeg",
       "id" : 1589691,
       "verified" : false
     }
   },
   "id" : 108925825776230401,
-  "created_at" : "Wed Aug 31 15:35:15 +0000 2011",
+  "created_at" : "2011-08-31 15:35:15 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -70,12 +68,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108905861816127488",
   "text" : "Being sick is no fun.",
   "id" : 108905861816127488,
-  "created_at" : "Wed Aug 31 14:15:55 +0000 2011",
+  "created_at" : "2011-08-31 14:15:55 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -105,14 +102,13 @@ Grailbird.data.tweets_2011_08 =
     } ]
   },
   "in_reply_to_status_id_str" : "108167840468697088",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "108171029905555456",
   "in_reply_to_user_id" : 14114392,
   "text" : "@thoughtbot Found a typo on the contracts page. http://t.co/kC6zLqB",
   "id" : 108171029905555456,
   "in_reply_to_status_id" : 108167840468697088,
-  "created_at" : "Mon Aug 29 13:35:57 +0000 2011",
+  "created_at" : "2011-08-29 13:35:57 +0000",
   "in_reply_to_screen_name" : "thoughtbot",
   "in_reply_to_user_id_str" : "14114392",
   "user" : {
@@ -139,14 +135,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "107192292900737024",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "107194118748377088",
   "in_reply_to_user_id" : 11381522,
   "text" : "@johnsheehan and OS sniffing",
   "id" : 107194118748377088,
   "in_reply_to_status_id" : 107192292900737024,
-  "created_at" : "Fri Aug 26 20:54:04 +0000 2011",
+  "created_at" : "2011-08-26 20:54:04 +0000",
   "in_reply_to_screen_name" : "johnsheehan",
   "in_reply_to_user_id_str" : "11381522",
   "user" : {
@@ -173,14 +168,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "107136667370012672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "107136929358819329",
   "in_reply_to_user_id" : 15023,
   "text" : "@scottw Where is the scss port?",
   "id" : 107136929358819329,
   "in_reply_to_status_id" : 107136667370012672,
-  "created_at" : "Fri Aug 26 17:06:49 +0000 2011",
+  "created_at" : "2011-08-26 17:06:49 +0000",
   "in_reply_to_screen_name" : "scottw",
   "in_reply_to_user_id_str" : "15023",
   "user" : {
@@ -207,14 +201,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "107079613611655168",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "107081265659916288",
   "in_reply_to_user_id" : 15023,
   "text" : "@scottw Look in .bundle/config - Remove the file or at least the bin line.",
   "id" : 107081265659916288,
   "in_reply_to_status_id" : 107079613611655168,
-  "created_at" : "Fri Aug 26 13:25:37 +0000 2011",
+  "created_at" : "2011-08-26 13:25:37 +0000",
   "in_reply_to_screen_name" : "scottw",
   "in_reply_to_user_id_str" : "15023",
   "user" : {
@@ -250,7 +243,7 @@ Grailbird.data.tweets_2011_08 =
   "text" : "@msnygaard probably Sunday afternoon... But you can try anytime.",
   "id" : 106734079097049088,
   "in_reply_to_status_id" : 106733204580478976,
-  "created_at" : "Thu Aug 25 14:26:02 +0000 2011",
+  "created_at" : "2011-08-25 14:26:02 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -277,14 +270,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "106728100318035968",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106731141452668929",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard good luck!",
   "id" : 106731141452668929,
   "in_reply_to_status_id" : 106728100318035968,
-  "created_at" : "Thu Aug 25 14:14:21 +0000 2011",
+  "created_at" : "2011-08-25 14:14:21 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -318,8 +310,7 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "bit.ly/qRngsf"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106403890295095296",
   "text" : "RT @reybango: I won't be downloading anything from CNet's download.com ever again. http://t.co/GZwFcen #wrappinginstaller",
   "retweeted_status" : {
@@ -338,24 +329,23 @@ Grailbird.data.tweets_2011_08 =
         "display_url" : "bit.ly/qRngsf"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "106402661733105665",
     "text" : "I won't be downloading anything from CNet's download.com ever again. http://t.co/GZwFcen #wrappinginstaller",
     "id" : 106402661733105665,
-    "created_at" : "Wed Aug 24 16:29:06 +0000 2011",
+    "created_at" : "2011-08-24 16:29:06 +0000",
     "user" : {
       "name" : "Rey Bango",
       "screen_name" : "reybango",
       "protected" : false,
       "id_str" : "1589691",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3083928353/876e66c79052fd3be98610a9214bf001_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3742774565/09ba858a7751fc0faef2fb2ab1cce05c_normal.jpeg",
       "id" : 1589691,
       "verified" : false
     }
   },
   "id" : 106403890295095296,
-  "created_at" : "Wed Aug 24 16:33:58 +0000 2011",
+  "created_at" : "2011-08-24 16:33:58 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -379,13 +369,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106382263486390272",
   "in_reply_to_user_id" : 43362959,
   "text" : "@CarrieRitchie No pic? :)",
   "id" : 106382263486390272,
-  "created_at" : "Wed Aug 24 15:08:02 +0000 2011",
+  "created_at" : "2011-08-24 15:08:02 +0000",
   "in_reply_to_screen_name" : "CarrieRitchie",
   "in_reply_to_user_id_str" : "43362959",
   "user" : {
@@ -407,7 +396,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "11071302",
       "id" : 11071302
     }, {
-      "name" : "Go Daddy",
+      "name" : "GoDaddy",
       "screen_name" : "GoDaddy",
       "indices" : [ 39, 47 ],
       "id_str" : "14949454",
@@ -418,14 +407,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "106379843976970240",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106382030362775552",
   "in_reply_to_user_id" : 11071302,
   "text" : "@PeteThePlanner You need to get rid of @GoDaddy",
   "id" : 106382030362775552,
   "in_reply_to_status_id" : 106379843976970240,
-  "created_at" : "Wed Aug 24 15:07:07 +0000 2011",
+  "created_at" : "2011-08-24 15:07:07 +0000",
   "in_reply_to_screen_name" : "PeteThePlanner",
   "in_reply_to_user_id_str" : "11071302",
   "user" : {
@@ -452,14 +440,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "106362081636401152",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106363979177263105",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard oh my. you all stitched up?",
   "id" : 106363979177263105,
   "in_reply_to_status_id" : 106362081636401152,
-  "created_at" : "Wed Aug 24 13:55:23 +0000 2011",
+  "created_at" : "2011-08-24 13:55:23 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -488,8 +475,7 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106349091457482752",
   "text" : "RT @gablaxian: \"We are seeking a talented .NET Web Developer with a passion for problem solving\" - Stop using .NET. Problem solved. #hired",
   "retweeted_status" : {
@@ -503,12 +489,11 @@ Grailbird.data.tweets_2011_08 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "106292323385749504",
     "text" : "\"We are seeking a talented .NET Web Developer with a passion for problem solving\" - Stop using .NET. Problem solved. #hired",
     "id" : 106292323385749504,
-    "created_at" : "Wed Aug 24 09:10:39 +0000 2011",
+    "created_at" : "2011-08-24 09:10:39 +0000",
     "user" : {
       "name" : "graham smith",
       "screen_name" : "gablaxian",
@@ -520,7 +505,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 106349091457482752,
-  "created_at" : "Wed Aug 24 12:56:13 +0000 2011",
+  "created_at" : "2011-08-24 12:56:13 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -550,13 +535,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "106175226198507520",
   "in_reply_to_user_id" : 10257182,
   "text" : "@heroku @herokustatus I'm getting a Platform error H99 on my app. Web and API are down.",
   "id" : 106175226198507520,
-  "created_at" : "Wed Aug 24 01:25:21 +0000 2011",
+  "created_at" : "2011-08-24 01:25:21 +0000",
   "in_reply_to_screen_name" : "heroku",
   "in_reply_to_user_id_str" : "10257182",
   "user" : {
@@ -583,7 +567,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "106039110577299456",
   "text" : "Just what I needed...internet is out in my office.",
   "id" : 106039110577299456,
-  "created_at" : "Tue Aug 23 16:24:28 +0000 2011",
+  "created_at" : "2011-08-23 16:24:28 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -612,8 +596,7 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "ow.ly/1elRQy"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105708741885820928",
   "text" : "RT @avdi: Dev blog: Your Code is My Hell http://t.co/6Nf9PXZ",
   "retweeted_status" : {
@@ -629,12 +612,11 @@ Grailbird.data.tweets_2011_08 =
         "display_url" : "ow.ly/1elRQy"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "105648084264042498",
     "text" : "Dev blog: Your Code is My Hell http://t.co/6Nf9PXZ",
     "id" : 105648084264042498,
-    "created_at" : "Mon Aug 22 14:30:40 +0000 2011",
+    "created_at" : "2011-08-22 14:30:40 +0000",
     "user" : {
       "name" : "Avdi Grimm",
       "screen_name" : "avdi",
@@ -646,7 +628,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 105708741885820928,
-  "created_at" : "Mon Aug 22 18:31:42 +0000 2011",
+  "created_at" : "2011-08-22 18:31:42 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -664,12 +646,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105696929379385344",
   "text" : "long day. oh wait, it's only 1:45.",
   "id" : 105696929379385344,
-  "created_at" : "Mon Aug 22 17:44:46 +0000 2011",
+  "created_at" : "2011-08-22 17:44:46 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -694,14 +675,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "105648772087955457",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105650520018010113",
   "in_reply_to_user_id" : 14980856,
   "text" : "@Rogem002 Sold out.",
   "id" : 105650520018010113,
   "in_reply_to_status_id" : 105648772087955457,
-  "created_at" : "Mon Aug 22 14:40:21 +0000 2011",
+  "created_at" : "2011-08-22 14:40:21 +0000",
   "in_reply_to_screen_name" : "MikeRogers0",
   "in_reply_to_user_id_str" : "14980856",
   "user" : {
@@ -728,14 +708,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "105578584978112512",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105613260396568576",
   "in_reply_to_user_id" : 14980856,
   "text" : "@Rogem002 Good luck finding one.",
   "id" : 105613260396568576,
   "in_reply_to_status_id" : 105578584978112512,
-  "created_at" : "Mon Aug 22 12:12:18 +0000 2011",
+  "created_at" : "2011-08-22 12:12:18 +0000",
   "in_reply_to_screen_name" : "MikeRogers0",
   "in_reply_to_user_id_str" : "14980856",
   "user" : {
@@ -762,14 +741,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "105564879544528896",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "105613206931779584",
   "in_reply_to_user_id" : 78667479,
   "text" : "@wrightmartin sass is amazing. Just give it a try and you'll see for yourself.",
   "id" : 105613206931779584,
   "in_reply_to_status_id" : 105564879544528896,
-  "created_at" : "Mon Aug 22 12:12:05 +0000 2011",
+  "created_at" : "2011-08-22 12:12:05 +0000",
   "in_reply_to_screen_name" : "wrightmartin",
   "in_reply_to_user_id_str" : "78667479",
   "user" : {
@@ -795,8 +773,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "104994134225469440",
   "text" : "RT @TechScruggs: Every OS has its purpose.  OSX, building webapps. Linux, running web apps.  Windows, testing IE.",
   "retweeted_status" : {
@@ -807,12 +784,11 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "101194101982105601",
     "text" : "Every OS has its purpose.  OSX, building webapps. Linux, running web apps.  Windows, testing IE.",
     "id" : 101194101982105601,
-    "created_at" : "Wed Aug 10 07:32:08 +0000 2011",
+    "created_at" : "2011-08-10 07:32:08 +0000",
     "user" : {
       "name" : "Aaron Scruggs",
       "screen_name" : "TechScruggs",
@@ -824,7 +800,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 104994134225469440,
-  "created_at" : "Sat Aug 20 19:12:06 +0000 2011",
+  "created_at" : "2011-08-20 19:12:06 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -848,12 +824,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "104985255894720512",
   "text" : "decided Chef is too heavy for this server setup. Going to write my own script, @thoughtbot style (github.com/thoughtbot/laptop)",
   "id" : 104985255894720512,
-  "created_at" : "Sat Aug 20 18:36:50 +0000 2011",
+  "created_at" : "2011-08-20 18:36:50 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -878,7 +853,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "104146422286401536",
   "text" : "Oh. Its trash day. Better get movin.",
   "id" : 104146422286401536,
-  "created_at" : "Thu Aug 18 11:03:36 +0000 2011",
+  "created_at" : "2011-08-18 11:03:36 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -913,8 +888,7 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "androidandme.com/2011/08/news/m\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103982848737951744",
   "text" : "RT @tandkb: Motorola, Ice Cream Sandwich and the future of Google TV http://t.co/tanMCg5 via @androidandme",
   "retweeted_status" : {
@@ -936,12 +910,11 @@ Grailbird.data.tweets_2011_08 =
         "display_url" : "androidandme.com/2011/08/news/m\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "103979818437181442",
     "text" : "Motorola, Ice Cream Sandwich and the future of Google TV http://t.co/tanMCg5 via @androidandme",
     "id" : 103979818437181442,
-    "created_at" : "Thu Aug 18 00:01:35 +0000 2011",
+    "created_at" : "2011-08-18 00:01:35 +0000",
     "user" : {
       "name" : "Thomas Bass",
       "screen_name" : "tandkb",
@@ -953,7 +926,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 103982848737951744,
-  "created_at" : "Thu Aug 18 00:13:37 +0000 2011",
+  "created_at" : "2011-08-18 00:13:37 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -979,12 +952,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "youtube.com/watch?v=6Cf7IL\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103982775891267584",
   "text" : "http://t.co/UkuxLub #future",
   "id" : 103982775891267584,
-  "created_at" : "Thu Aug 18 00:13:20 +0000 2011",
+  "created_at" : "2011-08-18 00:13:20 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1002,12 +974,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103904744535371776",
   "text" : "t.co is slow.",
   "id" : 103904744535371776,
-  "created_at" : "Wed Aug 17 19:03:16 +0000 2011",
+  "created_at" : "2011-08-17 19:03:16 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1032,14 +1003,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "103817539922038784",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103818823563608064",
   "in_reply_to_user_id" : 26639826,
   "text" : "@codatory What don't you like?",
   "id" : 103818823563608064,
   "in_reply_to_status_id" : 103817539922038784,
-  "created_at" : "Wed Aug 17 13:21:51 +0000 2011",
+  "created_at" : "2011-08-17 13:21:51 +0000",
   "in_reply_to_screen_name" : "codatory",
   "in_reply_to_user_id_str" : "26639826",
   "user" : {
@@ -1066,14 +1036,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "103817024077176833",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103818381387501569",
   "in_reply_to_user_id" : 11071302,
   "text" : "@PeteThePlanner Scratch that. It's in and out. Sorry man. Godaddy sucks.",
   "id" : 103818381387501569,
   "in_reply_to_status_id" : 103817024077176833,
-  "created_at" : "Wed Aug 17 13:20:05 +0000 2011",
+  "created_at" : "2011-08-17 13:20:05 +0000",
   "in_reply_to_screen_name" : "PeteThePlanner",
   "in_reply_to_user_id_str" : "11071302",
   "user" : {
@@ -1100,14 +1069,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "103817024077176833",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103817604732428289",
   "in_reply_to_user_id" : 11071302,
   "text" : "@PeteThePlanner Works for me.",
   "id" : 103817604732428289,
   "in_reply_to_status_id" : 103817024077176833,
-  "created_at" : "Wed Aug 17 13:17:00 +0000 2011",
+  "created_at" : "2011-08-17 13:17:00 +0000",
   "in_reply_to_screen_name" : "PeteThePlanner",
   "in_reply_to_user_id_str" : "11071302",
   "user" : {
@@ -1123,7 +1091,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FOX59 ",
+      "name" : "FOX59 News",
       "screen_name" : "FOX59",
       "indices" : [ 22, 28 ],
       "id_str" : "16440677",
@@ -1138,12 +1106,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "livestream.com/fox59news"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103798587661615104",
   "text" : "Computers are down at @FOX59 so they are getting the news out via livestream: http://t.co/kjL93dW",
   "id" : 103798587661615104,
-  "created_at" : "Wed Aug 17 12:01:26 +0000 2011",
+  "created_at" : "2011-08-17 12:01:26 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1177,7 +1144,7 @@ Grailbird.data.tweets_2011_08 =
   "text" : "@msnygaard roundabouts are easy!",
   "id" : 103648810462486530,
   "in_reply_to_status_id" : 103621075337875457,
-  "created_at" : "Wed Aug 17 02:06:16 +0000 2011",
+  "created_at" : "2011-08-17 02:06:16 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -1203,8 +1170,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103490753342357504",
   "text" : "RT @mikehostetler: [Funny] President Obama Launches a Kickstarter Project to Solve the Debt http://j.mp/pRd6uv // So hilarious",
   "retweeted_status" : {
@@ -1215,12 +1181,11 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "103480146698313729",
     "text" : "[Funny] President Obama Launches a Kickstarter Project to Solve the Debt http://j.mp/pRd6uv // So hilarious",
     "id" : 103480146698313729,
-    "created_at" : "Tue Aug 16 14:56:04 +0000 2011",
+    "created_at" : "2011-08-16 14:56:04 +0000",
     "user" : {
       "name" : "Mike Hostetler",
       "screen_name" : "mikehostetler",
@@ -1232,7 +1197,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 103490753342357504,
-  "created_at" : "Tue Aug 16 15:38:13 +0000 2011",
+  "created_at" : "2011-08-16 15:38:13 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1261,12 +1226,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "wthr.com/global/video/f\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103095077492113409",
   "text" : "Live video of memorial service at the #indiana #statefair http://t.co/4mORUVw",
   "id" : 103095077492113409,
-  "created_at" : "Mon Aug 15 13:25:56 +0000 2011",
+  "created_at" : "2011-08-15 13:25:56 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1280,7 +1244,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FOX59 ",
+      "name" : "FOX59 News",
       "screen_name" : "FOX59",
       "indices" : [ 0, 6 ],
       "id_str" : "16440677",
@@ -1291,14 +1255,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "103089605292720128",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "103093370586546176",
   "in_reply_to_user_id" : 16440677,
   "text" : "@FOX59 Your video page is totally broken.",
   "id" : 103093370586546176,
   "in_reply_to_status_id" : 103089605292720128,
-  "created_at" : "Mon Aug 15 13:19:09 +0000 2011",
+  "created_at" : "2011-08-15 13:19:09 +0000",
   "in_reply_to_screen_name" : "FOX59",
   "in_reply_to_user_id_str" : "16440677",
   "user" : {
@@ -1333,8 +1296,7 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "102573124519858178",
   "text" : "RT @jfgray: Terrifying. @royhobbson The awfulness of the #StateFair video is hard 2 process, too surreal to actually happen. http://t.co ...",
   "retweeted_status" : {
@@ -1360,14 +1322,13 @@ Grailbird.data.tweets_2011_08 =
       } ]
     },
     "in_reply_to_status_id_str" : "102567615276400640",
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "102572490664058881",
     "in_reply_to_user_id" : 79035632,
     "text" : "Terrifying. @royhobbson The awfulness of the #StateFair video is hard 2 process, too surreal to actually happen. http://t.co/30RYsrO",
     "id" : 102572490664058881,
     "in_reply_to_status_id" : 102567615276400640,
-    "created_at" : "Sun Aug 14 02:49:22 +0000 2011",
+    "created_at" : "2011-08-14 02:49:22 +0000",
     "in_reply_to_screen_name" : "royhobbson",
     "in_reply_to_user_id_str" : "79035632",
     "user" : {
@@ -1375,13 +1336,13 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "jfgray",
       "protected" : false,
       "id_str" : "16838928",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3310844950/1378a3d30342b9717d35c6a6b7f9285a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000106906764/adea920d2a86f68c4b78eb421e8370b8_normal.jpeg",
       "id" : 16838928,
       "verified" : false
     }
   },
   "id" : 102573124519858178,
-  "created_at" : "Sun Aug 14 02:51:53 +0000 2011",
+  "created_at" : "2011-08-14 02:51:53 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1412,7 +1373,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "102564955831808002",
   "text" : "Watching the news... #indy #statefair",
   "id" : 102564955831808002,
-  "created_at" : "Sun Aug 14 02:19:25 +0000 2011",
+  "created_at" : "2011-08-14 02:19:25 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1430,12 +1391,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "101712169674092544",
   "text" : "Broke down and upgraded my GitHub account to a paid account. Such a solid product.",
   "id" : 101712169674092544,
-  "created_at" : "Thu Aug 11 17:50:45 +0000 2011",
+  "created_at" : "2011-08-11 17:50:45 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1459,8 +1419,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "101096645705469952",
   "text" : "RT @tdhurst: Early adoptors of social media staged tweet ups, held conferences and started companies. Later ones sext and plank each other.",
   "retweeted_status" : {
@@ -1471,24 +1430,23 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "101067298638528512",
     "text" : "Early adoptors of social media staged tweet ups, held conferences and started companies. Later ones sext and plank each other.",
     "id" : 101067298638528512,
-    "created_at" : "Tue Aug 09 23:08:16 +0000 2011",
+    "created_at" : "2011-08-09 23:08:16 +0000",
     "user" : {
       "name" : "Tyler Hurst",
       "screen_name" : "tdhurst",
       "protected" : false,
       "id_str" : "14109043",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2155390775/Apr_21__2012_-_1_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000018834942/083439a3ea046991d2b8bc9c86a4fd83_normal.jpeg",
       "id" : 14109043,
       "verified" : false
     }
   },
   "id" : 101096645705469952,
-  "created_at" : "Wed Aug 10 01:04:53 +0000 2011",
+  "created_at" : "2011-08-10 01:04:53 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1512,8 +1470,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100894928409862144",
   "text" : "RT @larissameek: America, time to roll up our sleeves and chin up. One day at a time.",
   "retweeted_status" : {
@@ -1524,24 +1481,23 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "100810761949020160",
     "text" : "America, time to roll up our sleeves and chin up. One day at a time.",
     "id" : 100810761949020160,
-    "created_at" : "Tue Aug 09 06:08:53 +0000 2011",
+    "created_at" : "2011-08-09 06:08:53 +0000",
     "user" : {
       "name" : "larissa meek",
       "screen_name" : "larissameek",
       "protected" : false,
       "id_str" : "1768351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2230674215/larissa-meek_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3716340287/d8809c23e0fdbb29fbf5fcafec2cd53a_normal.jpeg",
       "id" : 1768351,
       "verified" : false
     }
   },
   "id" : 100894928409862144,
-  "created_at" : "Tue Aug 09 11:43:20 +0000 2011",
+  "created_at" : "2011-08-09 11:43:20 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1566,14 +1522,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "100762420657651713",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100763762189012992",
   "in_reply_to_user_id" : 26639826,
   "text" : "@codatory It's back!",
   "id" : 100763762189012992,
   "in_reply_to_status_id" : 100762420657651713,
-  "created_at" : "Tue Aug 09 03:02:07 +0000 2011",
+  "created_at" : "2011-08-09 03:02:07 +0000",
   "in_reply_to_screen_name" : "codatory",
   "in_reply_to_user_id_str" : "26639826",
   "user" : {
@@ -1596,12 +1551,11 @@ Grailbird.data.tweets_2011_08 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100761485134929921",
   "text" : "Seems like half of the internet just went dark... #aws",
   "id" : 100761485134929921,
-  "created_at" : "Tue Aug 09 02:53:04 +0000 2011",
+  "created_at" : "2011-08-09 02:53:04 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1629,14 +1583,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "100706246335791105",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100761406013575169",
   "in_reply_to_user_id" : 5978432,
   "text" : "@jamesotron bad timing for #aws failure",
   "id" : 100761406013575169,
   "in_reply_to_status_id" : 100706246335791105,
-  "created_at" : "Tue Aug 09 02:52:45 +0000 2011",
+  "created_at" : "2011-08-09 02:52:45 +0000",
   "in_reply_to_screen_name" : "jamesotron",
   "in_reply_to_user_id_str" : "5978432",
   "user" : {
@@ -1668,12 +1621,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100757517075886080",
   "text" : "Looks like AWS is down... and therefore @heroku and @netflix",
   "id" : 100757517075886080,
-  "created_at" : "Tue Aug 09 02:37:18 +0000 2011",
+  "created_at" : "2011-08-09 02:37:18 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1697,13 +1649,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "100192574471544833",
   "in_reply_to_user_id" : 8695992,
   "text" : "@linode I'm unable to access my servers and the Lish console doesn't connect either!",
   "id" : 100192574471544833,
-  "created_at" : "Sun Aug 07 13:12:25 +0000 2011",
+  "created_at" : "2011-08-07 13:12:25 +0000",
   "in_reply_to_screen_name" : "linode",
   "in_reply_to_user_id_str" : "8695992",
   "user" : {
@@ -1730,14 +1681,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99610429365551104",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99833261286621184",
   "in_reply_to_user_id" : 15023,
   "text" : "@scottw what did you use instead of devise?",
   "id" : 99833261286621184,
   "in_reply_to_status_id" : 99610429365551104,
-  "created_at" : "Sat Aug 06 13:24:38 +0000 2011",
+  "created_at" : "2011-08-06 13:24:38 +0000",
   "in_reply_to_screen_name" : "scottw",
   "in_reply_to_user_id_str" : "15023",
   "user" : {
@@ -1764,14 +1714,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99485741054296065",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99551330149990400",
   "in_reply_to_user_id" : 2206131,
   "text" : "@sivers Enjoyed your video - thanks for sharing! Might have to read your book next.",
   "id" : 99551330149990400,
   "in_reply_to_status_id" : 99485741054296065,
-  "created_at" : "Fri Aug 05 18:44:21 +0000 2011",
+  "created_at" : "2011-08-05 18:44:21 +0000",
   "in_reply_to_screen_name" : "sivers",
   "in_reply_to_user_id_str" : "2206131",
   "user" : {
@@ -1798,14 +1747,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "99468411968565248",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99468730194608128",
   "in_reply_to_user_id" : 57613,
   "text" : "@trabianmatt Samsung Charge",
   "id" : 99468730194608128,
   "in_reply_to_status_id" : 99468411968565248,
-  "created_at" : "Fri Aug 05 13:16:07 +0000 2011",
+  "created_at" : "2011-08-05 13:16:07 +0000",
   "in_reply_to_screen_name" : "trabianmatt",
   "in_reply_to_user_id_str" : "57613",
   "user" : {
@@ -1825,12 +1773,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99466106317717505",
   "text" : "Its actually faster to check my email on my new phone than on my computer. :-)",
   "id" : 99466106317717505,
-  "created_at" : "Fri Aug 05 13:05:42 +0000 2011",
+  "created_at" : "2011-08-05 13:05:42 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1848,12 +1795,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99448392253579265",
   "text" : "Enjoying the cool morning in the backyard before it gets hot.",
   "id" : 99448392253579265,
-  "created_at" : "Fri Aug 05 11:55:19 +0000 2011",
+  "created_at" : "2011-08-05 11:55:19 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1877,8 +1823,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99202572446998528",
   "text" : "RT @trabian: Website Thursday! We delayed our usual post because today the NEW TRABIAN site is live! We're proud to reveal the new http: ...",
   "retweeted_status" : {
@@ -1889,12 +1834,11 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "99134511413080064",
     "text" : "Website Thursday! We delayed our usual post because today the NEW TRABIAN site is live! We're proud to reveal the new http://www.trabian.com",
     "id" : 99134511413080064,
-    "created_at" : "Thu Aug 04 15:08:04 +0000 2011",
+    "created_at" : "2011-08-04 15:08:04 +0000",
     "user" : {
       "name" : "Trabian",
       "screen_name" : "trabian",
@@ -1906,7 +1850,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 99202572446998528,
-  "created_at" : "Thu Aug 04 19:38:31 +0000 2011",
+  "created_at" : "2011-08-04 19:38:31 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1929,12 +1873,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "vimeo.com/27246366"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "99083561558228993",
   "text" : "Awesome video of 3 guys traveling the world. Worth 60 seconds of your day. http://t.co/flE0e85",
   "id" : 99083561558228993,
-  "created_at" : "Thu Aug 04 11:45:36 +0000 2011",
+  "created_at" : "2011-08-04 11:45:36 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1958,13 +1901,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98952083260186625",
   "in_reply_to_user_id" : 6898812,
   "text" : "@jonguerin Happy Birthday!",
   "id" : 98952083260186625,
-  "created_at" : "Thu Aug 04 03:03:09 +0000 2011",
+  "created_at" : "2011-08-04 03:03:09 +0000",
   "in_reply_to_screen_name" : "jonguerin",
   "in_reply_to_user_id_str" : "6898812",
   "user" : {
@@ -1991,14 +1933,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "98938195336642560",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98945849098371073",
   "in_reply_to_user_id" : 13678852,
   "text" : "@jmccartie I think I got it working. Parsing error - must have developed from all the different versions I've tried over the past 2 days.",
   "id" : 98945849098371073,
   "in_reply_to_status_id" : 98938195336642560,
-  "created_at" : "Thu Aug 04 02:38:23 +0000 2011",
+  "created_at" : "2011-08-04 02:38:23 +0000",
   "in_reply_to_screen_name" : "jmccartie",
   "in_reply_to_user_id_str" : "13678852",
   "user" : {
@@ -2025,14 +1966,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "98937569013792768",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98938078110035969",
   "in_reply_to_user_id" : 13678852,
   "text" : "@jmccartie Primarily cedar. I've got my app running but openid fails every time.",
   "id" : 98938078110035969,
   "in_reply_to_status_id" : 98937569013792768,
-  "created_at" : "Thu Aug 04 02:07:30 +0000 2011",
+  "created_at" : "2011-08-04 02:07:30 +0000",
   "in_reply_to_screen_name" : "jmccartie",
   "in_reply_to_user_id_str" : "13678852",
   "user" : {
@@ -2059,14 +1999,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "98931555233308672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98933416979992576",
   "in_reply_to_user_id" : 13678852,
   "text" : "@jmccartie Working on almost the exact same thing right now. Any chance you're going to implement openid on that stack?",
   "id" : 98933416979992576,
   "in_reply_to_status_id" : 98931555233308672,
-  "created_at" : "Thu Aug 04 01:48:59 +0000 2011",
+  "created_at" : "2011-08-04 01:48:59 +0000",
   "in_reply_to_screen_name" : "jmccartie",
   "in_reply_to_user_id_str" : "13678852",
   "user" : {
@@ -2086,12 +2025,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98850330414026752",
   "text" : "\"TypeError: can't convert nil into an exact number\" Can you give me an estimate?",
   "id" : 98850330414026752,
-  "created_at" : "Wed Aug 03 20:18:49 +0000 2011",
+  "created_at" : "2011-08-03 20:18:49 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -2115,8 +2053,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98755900277403649",
   "text" : "RT @DaringFirefeed: Nosh: 404: Now that\u2019s a 404 page.\n\n\u00A0\u2605\u00A0\n http://www.nosh.me/404",
   "retweeted_status" : {
@@ -2127,12 +2064,11 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "98400403447742464",
     "text" : "Nosh: 404: Now that\u2019s a 404 page.\n\n\u00A0\u2605\u00A0\n http://www.nosh.me/404",
     "id" : 98400403447742464,
-    "created_at" : "Tue Aug 02 14:30:59 +0000 2011",
+    "created_at" : "2011-08-02 14:30:59 +0000",
     "user" : {
       "name" : "Daring Fireball feed",
       "screen_name" : "DaringFirefeed",
@@ -2144,7 +2080,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 98755900277403649,
-  "created_at" : "Wed Aug 03 14:03:36 +0000 2011",
+  "created_at" : "2011-08-03 14:03:36 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -2168,13 +2104,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98725460573306881",
   "in_reply_to_user_id" : 146993421,
   "text" : "@GroupMe Oh! Looks like you're still updating things.... new button just showed up to view more history and the system messages are back.",
   "id" : 98725460573306881,
-  "created_at" : "Wed Aug 03 12:02:38 +0000 2011",
+  "created_at" : "2011-08-03 12:02:38 +0000",
   "in_reply_to_screen_name" : "GroupMe",
   "in_reply_to_user_id_str" : "146993421",
   "user" : {
@@ -2201,14 +2136,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "98457402352992256",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98457684835172352",
   "in_reply_to_user_id" : 9395832,
   "text" : "@dcurtis Does that mean change is coming, I wonder?",
   "id" : 98457684835172352,
   "in_reply_to_status_id" : 98457402352992256,
-  "created_at" : "Tue Aug 02 18:18:35 +0000 2011",
+  "created_at" : "2011-08-02 18:18:35 +0000",
   "in_reply_to_screen_name" : "dcurtis",
   "in_reply_to_user_id_str" : "9395832",
   "user" : {
@@ -2234,8 +2168,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98457386313981952",
   "text" : "RT @indystar: Here's 254 pounds of wobbly curiosity.  View today's photos of the Indy zoo's baby elephant.  http://bit.ly/nDo4MD",
   "retweeted_status" : {
@@ -2246,12 +2179,11 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "98453987707199488",
     "text" : "Here's 254 pounds of wobbly curiosity.  View today's photos of the Indy zoo's baby elephant.  http://bit.ly/nDo4MD",
     "id" : 98453987707199488,
-    "created_at" : "Tue Aug 02 18:03:54 +0000 2011",
+    "created_at" : "2011-08-02 18:03:54 +0000",
     "user" : {
       "name" : "Indianapolis Star",
       "screen_name" : "indystar",
@@ -2263,7 +2195,7 @@ Grailbird.data.tweets_2011_08 =
     }
   },
   "id" : 98457386313981952,
-  "created_at" : "Tue Aug 02 18:17:24 +0000 2011",
+  "created_at" : "2011-08-02 18:17:24 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -2281,12 +2213,11 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98233468579885057",
   "text" : "Anyone have any luck running rails 3.1 + devise + google_apps openid on Heroku?",
   "id" : 98233468579885057,
-  "created_at" : "Tue Aug 02 03:27:38 +0000 2011",
+  "created_at" : "2011-08-02 03:27:38 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -2310,8 +2241,7 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98232644382367744",
   "text" : "RT @jmccartie: (PS  Love that it just took me &lt;2 seconds to spin up a new instance on Heroku to test my new setup...for free  &lt;3 & ...",
   "retweeted_status" : {
@@ -2322,24 +2252,23 @@ Grailbird.data.tweets_2011_08 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "98232457312219136",
     "text" : "(PS  Love that it just took me &lt;2 seconds to spin up a new instance on Heroku to test my new setup...for free  &lt;3 &lt;3 )",
     "id" : 98232457312219136,
-    "created_at" : "Tue Aug 02 03:23:37 +0000 2011",
+    "created_at" : "2011-08-02 03:23:37 +0000",
     "user" : {
       "name" : "Jon McCartie",
       "screen_name" : "jmccartie",
       "protected" : false,
       "id_str" : "13678852",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1912276665/C4E16E03-283E-406B-9C62-406A7A3FEE38_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3674116354/49bc7c088042e9454c0feec5570df515_normal.jpeg",
       "id" : 13678852,
       "verified" : false
     }
   },
   "id" : 98232644382367744,
-  "created_at" : "Tue Aug 02 03:24:22 +0000 2011",
+  "created_at" : "2011-08-02 03:24:22 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -2370,12 +2299,11 @@ Grailbird.data.tweets_2011_08 =
       "display_url" : "namecheap.com/ncrocks"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98202260953247745",
   "text" : "Namecheap.com rocks #ncrocks - give it a try! http://t.co/3o3jNZf - Enter for a chance to win $5000! http://t.co/jv9PkoB",
   "id" : 98202260953247745,
-  "created_at" : "Tue Aug 02 01:23:38 +0000 2011",
+  "created_at" : "2011-08-02 01:23:38 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -2400,14 +2328,13 @@ Grailbird.data.tweets_2011_08 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "97098834894790656",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "98100243698167809",
   "in_reply_to_user_id" : 10257182,
   "text" : "@heroku Your reply was about 9 hours too late! But now it's happening again... already sent support a message.",
   "id" : 98100243698167809,
   "in_reply_to_status_id" : 97098834894790656,
-  "created_at" : "Mon Aug 01 18:38:15 +0000 2011",
+  "created_at" : "2011-08-01 18:38:15 +0000",
   "in_reply_to_screen_name" : "heroku",
   "in_reply_to_user_id_str" : "10257182",
   "user" : {

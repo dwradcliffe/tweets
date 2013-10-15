@@ -14,14 +14,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "186208517898772480",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "186227430623690752",
   "in_reply_to_user_id" : 216903983,
   "text" : "@mr7914 as is the dog.",
   "id" : 186227430623690752,
   "in_reply_to_status_id" : 186208517898772480,
-  "created_at" : "Sat Mar 31 23:04:14 +0000 2012",
+  "created_at" : "2012-03-31 23:04:14 +0000",
   "in_reply_to_screen_name" : "mr7914",
   "in_reply_to_user_id_str" : "216903983",
   "user" : {
@@ -48,14 +47,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "185826821357576194",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "185909872146132993",
   "in_reply_to_user_id" : 26639826,
   "text" : "@codatory what software is that?",
   "id" : 185909872146132993,
   "in_reply_to_status_id" : 185826821357576194,
-  "created_at" : "Sat Mar 31 02:02:22 +0000 2012",
+  "created_at" : "2012-03-31 02:02:22 +0000",
   "in_reply_to_screen_name" : "codatory",
   "in_reply_to_user_id_str" : "26639826",
   "user" : {
@@ -81,8 +79,7 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "185512104374173696",
   "text" : "RT @aalear: I know a great UDP joke but you might not get it.",
   "retweeted_status" : {
@@ -93,12 +90,11 @@ Grailbird.data.tweets_2012_03 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "185033528747114496",
     "text" : "I know a great UDP joke but you might not get it.",
     "id" : 185033528747114496,
-    "created_at" : "Wed Mar 28 16:00:05 +0000 2012",
+    "created_at" : "2012-03-28 16:00:05 +0000",
     "user" : {
       "name" : "Anna Lear",
       "screen_name" : "aalear",
@@ -110,7 +106,7 @@ Grailbird.data.tweets_2012_03 =
     }
   },
   "id" : 185512104374173696,
-  "created_at" : "Thu Mar 29 23:41:46 +0000 2012",
+  "created_at" : "2012-03-29 23:41:46 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -134,13 +130,12 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "185336134488948736",
   "in_reply_to_user_id" : 202230619,
   "text" : "@glyphicons I'm looking for a vcard icon - next release? :)",
   "id" : 185336134488948736,
-  "created_at" : "Thu Mar 29 12:02:32 +0000 2012",
+  "created_at" : "2012-03-29 12:02:32 +0000",
   "in_reply_to_screen_name" : "glyphicons",
   "in_reply_to_user_id_str" : "202230619",
   "user" : {
@@ -167,14 +162,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "185034475950977025",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "185034957738086400",
   "in_reply_to_user_id" : 44703073,
   "text" : "@TownofAvonIN What about 100n/900? It's such a dangerous intersection!",
   "id" : 185034957738086400,
   "in_reply_to_status_id" : 185034475950977025,
-  "created_at" : "Wed Mar 28 16:05:46 +0000 2012",
+  "created_at" : "2012-03-28 16:05:46 +0000",
   "in_reply_to_screen_name" : "TownofAvonIN",
   "in_reply_to_user_id_str" : "44703073",
   "user" : {
@@ -201,14 +195,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "183379944498405376",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "183380413945876480",
   "in_reply_to_user_id" : 57613,
   "text" : "@trabianmatt We're good here. Crazy though.",
   "id" : 183380413945876480,
   "in_reply_to_status_id" : 183379944498405376,
-  "created_at" : "Sat Mar 24 02:31:12 +0000 2012",
+  "created_at" : "2012-03-24 02:31:12 +0000",
   "in_reply_to_screen_name" : "trabianmatt",
   "in_reply_to_user_id_str" : "57613",
   "user" : {
@@ -235,14 +228,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "183348623860436992",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "183349124584837120",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard @AaronNygaard I'll try to get a pic in a bit.",
   "id" : 183349124584837120,
   "in_reply_to_status_id" : 183348623860436992,
-  "created_at" : "Sat Mar 24 00:26:52 +0000 2012",
+  "created_at" : "2012-03-24 00:26:52 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -269,14 +261,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "183348453655584769",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "183348770669465600",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard Next street over. Can see the trucks through the houses.",
   "id" : 183348770669465600,
   "in_reply_to_status_id" : 183348453655584769,
-  "created_at" : "Sat Mar 24 00:25:28 +0000 2012",
+  "created_at" : "2012-03-24 00:25:28 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -296,12 +287,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "183347941329735680",
   "text" : "House fire - struck by lightning in our neighborhood!",
   "id" : 183347941329735680,
-  "created_at" : "Sat Mar 24 00:22:10 +0000 2012",
+  "created_at" : "2012-03-24 00:22:10 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -322,12 +312,11 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "182950743865688065",
   "text" : "Thank goodness for Heroku's auto daily backups. :) #oops",
   "id" : 182950743865688065,
-  "created_at" : "Thu Mar 22 22:03:51 +0000 2012",
+  "created_at" : "2012-03-22 22:03:51 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -357,12 +346,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "182804117318672386",
   "text" : "Had a great time at @indyjs last night. Thanks @tonydewan and @swilliams_et",
   "id" : 182804117318672386,
-  "created_at" : "Thu Mar 22 12:21:12 +0000 2012",
+  "created_at" : "2012-03-22 12:21:12 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -386,12 +374,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "182592029107306496",
   "text" : "Thanks BrightHouse for raising your prices. And charging for the modem every month. And taxes on the modem. /cc @BrightHouseCare",
   "id" : 182592029107306496,
-  "created_at" : "Wed Mar 21 22:18:26 +0000 2012",
+  "created_at" : "2012-03-21 22:18:26 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -415,12 +402,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "182122144967307264",
   "text" : "It's a @Coldplay day today.",
   "id" : 182122144967307264,
-  "created_at" : "Tue Mar 20 15:11:17 +0000 2012",
+  "created_at" : "2012-03-20 15:11:17 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -438,12 +424,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "181717619492126720",
   "text" : "Happy Monday! Let's make something today.",
   "id" : 181717619492126720,
-  "created_at" : "Mon Mar 19 12:23:51 +0000 2012",
+  "created_at" : "2012-03-19 12:23:51 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -461,8 +446,7 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "181079651819597824",
   "text" : "RT @evolvingWe: Every feature is an opportunity for users to shoot themselves in the foot. Choose wisely.",
   "retweeted_status" : {
@@ -473,12 +457,11 @@ Grailbird.data.tweets_2012_03 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "181076799281840130",
     "text" : "Every feature is an opportunity for users to shoot themselves in the foot. Choose wisely.",
     "id" : 181076799281840130,
-    "created_at" : "Sat Mar 17 17:57:27 +0000 2012",
+    "created_at" : "2012-03-17 17:57:27 +0000",
     "user" : {
       "name" : "Josh Ledgard",
       "screen_name" : "joshaledgard",
@@ -490,7 +473,7 @@ Grailbird.data.tweets_2012_03 =
     }
   },
   "id" : 181079651819597824,
-  "created_at" : "Sat Mar 17 18:08:47 +0000 2012",
+  "created_at" : "2012-03-17 18:08:47 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -508,12 +491,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180757891366649857",
   "text" : "Love this weather! Working outside :)",
   "id" : 180757891366649857,
-  "created_at" : "Fri Mar 16 20:50:14 +0000 2012",
+  "created_at" : "2012-03-16 20:50:14 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -531,13 +513,12 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180729991040999425",
   "in_reply_to_user_id" : 509081400,
   "text" : "@AreYouPostable Great product! Idea: sync with address book (cardDav) and support for family addresses (two names, eql weight)",
   "id" : 180729991040999425,
-  "created_at" : "Fri Mar 16 18:59:22 +0000 2012",
+  "created_at" : "2012-03-16 18:59:22 +0000",
   "in_reply_to_screen_name" : "Postable",
   "in_reply_to_user_id_str" : "509081400",
   "user" : {
@@ -568,12 +549,11 @@ Grailbird.data.tweets_2012_03 =
       "display_url" : "sonos.extole.com/a/clk/2lW3FP"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180696372733939712",
   "text" : "I love @Sonos and think you will too. Use this link to get hooked up with a free BRIDGE with purchase,  http://t.co/bxOm0hQC",
   "id" : 180696372733939712,
-  "created_at" : "Fri Mar 16 16:45:47 +0000 2012",
+  "created_at" : "2012-03-16 16:45:47 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -603,8 +583,7 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180673893411987459",
   "text" : "RT @FlashGen: I like the menu item update to @crashplan on OS X. It's the simple things that make great apps shine. Nice job guys",
   "retweeted_status" : {
@@ -621,12 +600,11 @@ Grailbird.data.tweets_2012_03 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "180652612343955456",
     "text" : "I like the menu item update to @crashplan on OS X. It's the simple things that make great apps shine. Nice job guys",
     "id" : 180652612343955456,
-    "created_at" : "Fri Mar 16 13:51:53 +0000 2012",
+    "created_at" : "2012-03-16 13:51:53 +0000",
     "user" : {
       "name" : "Mike Jones",
       "screen_name" : "FlashGen",
@@ -638,7 +616,7 @@ Grailbird.data.tweets_2012_03 =
     }
   },
   "id" : 180673893411987459,
-  "created_at" : "Fri Mar 16 15:16:27 +0000 2012",
+  "created_at" : "2012-03-16 15:16:27 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -668,12 +646,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180367771845132291",
   "text" : "Had a great meeting with @jshields early this morning. Cool things happening with @LifeGroupHUB soon!",
   "id" : 180367771845132291,
-  "created_at" : "Thu Mar 15 19:00:02 +0000 2012",
+  "created_at" : "2012-03-15 19:00:02 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -697,8 +674,7 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180266790708973570",
   "text" : "RT @serverdensity: EC2 is the internet's new single point of failure.",
   "retweeted_status" : {
@@ -709,24 +685,23 @@ Grailbird.data.tweets_2012_03 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "180248920809680896",
     "text" : "EC2 is the internet's new single point of failure.",
     "id" : 180248920809680896,
-    "created_at" : "Thu Mar 15 11:07:46 +0000 2012",
+    "created_at" : "2012-03-15 11:07:46 +0000",
     "user" : {
       "name" : "Server Density",
       "screen_name" : "serverdensity",
       "protected" : false,
       "id_str" : "23840756",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2966524772/ddef4728bbbd3697bd68055759098900_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000563054807/350fe92b2989d8efc68ebabbb9075067_normal.png",
       "id" : 23840756,
       "verified" : true
     }
   },
   "id" : 180266790708973570,
-  "created_at" : "Thu Mar 15 12:18:46 +0000 2012",
+  "created_at" : "2012-03-15 12:18:46 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -747,12 +722,11 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "180265040706940928",
   "text" : "Thankful that ec2 was back up by the time I woke up this morning. #ProbablyShouldHaveBeenWokenUpForThat",
   "id" : 180265040706940928,
-  "created_at" : "Thu Mar 15 12:11:49 +0000 2012",
+  "created_at" : "2012-03-15 12:11:49 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -765,27 +739,20 @@ Grailbird.data.tweets_2012_03 =
 }, {
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stephanie Ginther",
-      "screen_name" : "smginther",
-      "indices" : [ 0, 10 ],
-      "id_str" : "24624025",
-      "id" : 24624025
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "179524293338730497",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "179527852759326720",
   "in_reply_to_user_id" : 24624025,
   "text" : "@smginther Hah! What is that?",
   "id" : 179527852759326720,
   "in_reply_to_status_id" : 179524293338730497,
-  "created_at" : "Tue Mar 13 11:22:30 +0000 2012",
-  "in_reply_to_screen_name" : "smginther",
+  "created_at" : "2012-03-13 11:22:30 +0000",
+  "in_reply_to_screen_name" : "stephanie_nyg",
   "in_reply_to_user_id_str" : "24624025",
   "user" : {
     "name" : "David Radcliffe",
@@ -811,14 +778,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "177782577988513793",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "177782941299126272",
   "in_reply_to_user_id" : 38049300,
   "text" : "@hugoware I've had problems getting forever to install on osx. Worked on server though - and it's a great little utility!",
   "id" : 177782941299126272,
   "in_reply_to_status_id" : 177782577988513793,
-  "created_at" : "Thu Mar 08 15:48:50 +0000 2012",
+  "created_at" : "2012-03-08 15:48:50 +0000",
   "in_reply_to_screen_name" : "hugoware",
   "in_reply_to_user_id_str" : "38049300",
   "user" : {
@@ -849,12 +815,11 @@ Grailbird.data.tweets_2012_03 =
       "display_url" : "vimeo.com/invisible/kony\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "177561356285911041",
   "text" : "http://t.co/Mx5yyVHp #stopkony #kony2012",
   "id" : 177561356285911041,
-  "created_at" : "Thu Mar 08 01:08:20 +0000 2012",
+  "created_at" : "2012-03-08 01:08:20 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -878,13 +843,12 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "177387344746389505",
   "in_reply_to_user_id" : 1261631,
   "text" : "@truestory Congrats on the launch! Looks great!",
   "id" : 177387344746389505,
-  "created_at" : "Wed Mar 07 13:36:53 +0000 2012",
+  "created_at" : "2012-03-07 13:36:53 +0000",
   "in_reply_to_screen_name" : "truestory",
   "in_reply_to_user_id_str" : "1261631",
   "user" : {
@@ -910,13 +874,12 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "177372624068939776",
   "in_reply_to_user_id" : 15244502,
   "text" : "@jshields Are you going to be around your office this morning?",
   "id" : 177372624068939776,
-  "created_at" : "Wed Mar 07 12:38:23 +0000 2012",
+  "created_at" : "2012-03-07 12:38:23 +0000",
   "in_reply_to_screen_name" : "jshields",
   "in_reply_to_user_id_str" : "15244502",
   "user" : {
@@ -936,12 +899,11 @@ Grailbird.data.tweets_2012_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "177113526022832129",
   "text" : "I think I need a plant for my office. Something green.",
   "id" : 177113526022832129,
-  "created_at" : "Tue Mar 06 19:28:49 +0000 2012",
+  "created_at" : "2012-03-06 19:28:49 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -976,8 +938,7 @@ Grailbird.data.tweets_2012_03 =
       "display_url" : "responsive.is"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "177074979983208449",
   "text" : "RT @RWD: That smartypants @Armstrong released http://t.co/G0s3pEy5, a simple but elegant little tool for testing and previewing responsi ...",
   "retweeted_status" : {
@@ -999,12 +960,11 @@ Grailbird.data.tweets_2012_03 =
         "display_url" : "responsive.is"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "177072768712572928",
     "text" : "That smartypants @Armstrong released http://t.co/G0s3pEy5, a simple but elegant little tool for testing and previewing responsive designs.",
     "id" : 177072768712572928,
-    "created_at" : "Tue Mar 06 16:46:52 +0000 2012",
+    "created_at" : "2012-03-06 16:46:52 +0000",
     "user" : {
       "name" : "Responsive Design",
       "screen_name" : "RWD",
@@ -1016,7 +976,7 @@ Grailbird.data.tweets_2012_03 =
     }
   },
   "id" : 177074979983208449,
-  "created_at" : "Tue Mar 06 16:55:39 +0000 2012",
+  "created_at" : "2012-03-06 16:55:39 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1045,8 +1005,7 @@ Grailbird.data.tweets_2012_03 =
       "display_url" : "markdotto.com/2012/03/02/sto\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "176036368177315840",
   "text" : "RT @mdo: \u270E Stop the cascade: http://t.co/C6CbHyZj",
   "retweeted_status" : {
@@ -1062,12 +1021,11 @@ Grailbird.data.tweets_2012_03 =
         "display_url" : "markdotto.com/2012/03/02/sto\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "176035247392178176",
     "text" : "\u270E Stop the cascade: http://t.co/C6CbHyZj",
     "id" : 176035247392178176,
-    "created_at" : "Sat Mar 03 20:04:08 +0000 2012",
+    "created_at" : "2012-03-03 20:04:08 +0000",
     "user" : {
       "name" : "Mark Otto",
       "screen_name" : "mdo",
@@ -1079,7 +1037,7 @@ Grailbird.data.tweets_2012_03 =
     }
   },
   "id" : 176036368177315840,
-  "created_at" : "Sat Mar 03 20:08:35 +0000 2012",
+  "created_at" : "2012-03-03 20:08:35 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1104,14 +1062,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "175592066515091457",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "175592406631190529",
   "in_reply_to_user_id" : 5742002,
   "text" : "@RossCode Gotcha. My house is the same way. I have to drive 10 minutes to get full 4G.",
   "id" : 175592406631190529,
   "in_reply_to_status_id" : 175592066515091457,
-  "created_at" : "Fri Mar 02 14:44:26 +0000 2012",
+  "created_at" : "2012-03-02 14:44:26 +0000",
   "in_reply_to_screen_name" : "RossCode",
   "in_reply_to_user_id_str" : "5742002",
   "user" : {
@@ -1138,14 +1095,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "175585544594669568",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "175591766282616833",
   "in_reply_to_user_id" : 5742002,
   "text" : "@RossCode That's pretty slow for 4G. I usually get 26 down.",
   "id" : 175591766282616833,
   "in_reply_to_status_id" : 175585544594669568,
-  "created_at" : "Fri Mar 02 14:41:54 +0000 2012",
+  "created_at" : "2012-03-02 14:41:54 +0000",
   "in_reply_to_screen_name" : "RossCode",
   "in_reply_to_user_id_str" : "5742002",
   "user" : {
@@ -1172,14 +1128,13 @@ Grailbird.data.tweets_2012_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "175248163882541056",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "175256612808835072",
   "in_reply_to_user_id" : 38049300,
   "text" : "@hugoware Awesome! 'bout time ;)",
   "id" : 175256612808835072,
   "in_reply_to_status_id" : 175248163882541056,
-  "created_at" : "Thu Mar 01 16:30:07 +0000 2012",
+  "created_at" : "2012-03-01 16:30:07 +0000",
   "in_reply_to_screen_name" : "hugoware",
   "in_reply_to_user_id_str" : "38049300",
   "user" : {
@@ -1208,8 +1163,7 @@ Grailbird.data.tweets_2012_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "175222683741597698",
   "text" : "RT @mperham: I really dislike the Ruby 1.9 hash syntax. #hashrocket4eva",
   "retweeted_status" : {
@@ -1223,24 +1177,23 @@ Grailbird.data.tweets_2012_03 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "175076243685900288",
     "text" : "I really dislike the Ruby 1.9 hash syntax. #hashrocket4eva",
     "id" : 175076243685900288,
-    "created_at" : "Thu Mar 01 04:33:23 +0000 2012",
+    "created_at" : "2012-03-01 04:33:23 +0000",
     "user" : {
       "name" : "Mike Perham",
       "screen_name" : "mperham",
       "protected" : false,
       "id_str" : "14060922",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3615499471/5305a46167bd44ffd639196cf9965427_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000543296368/ae8a3317b1179b15a175003e4c7569af_normal.jpeg",
       "id" : 14060922,
       "verified" : false
     }
   },
   "id" : 175222683741597698,
-  "created_at" : "Thu Mar 01 14:15:17 +0000 2012",
+  "created_at" : "2012-03-01 14:15:17 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

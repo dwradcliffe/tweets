@@ -13,12 +13,11 @@ Grailbird.data.tweets_2010_12 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "20467955284312064",
   "text" : "#indy #earthquake http://earthquake.usgs.gov/earthquakes/recenteqsus/Quakes/usc0000x03.php",
   "id" : 20467955284312064,
-  "created_at" : "Thu Dec 30 13:15:15 +0000 2010",
+  "created_at" : "2010-12-30 13:15:15 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -42,12 +41,11 @@ Grailbird.data.tweets_2010_12 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "20466658132885506",
   "text" : "Didn't feel the building shake here at work but my wife did at home... #indy #earthquake",
   "id" : 20466658132885506,
-  "created_at" : "Thu Dec 30 13:10:06 +0000 2010",
+  "created_at" : "2010-12-30 13:10:06 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -72,14 +70,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "19777485218512896",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "19786321262288896",
   "in_reply_to_user_id" : 2044071,
   "text" : "@Qwiki STILL getting emails...",
   "id" : 19786321262288896,
   "in_reply_to_status_id" : 19777485218512896,
-  "created_at" : "Tue Dec 28 16:06:41 +0000 2010",
+  "created_at" : "2010-12-28 16:06:41 +0000",
   "in_reply_to_screen_name" : "Qwiki",
   "in_reply_to_user_id_str" : "2044071",
   "user" : {
@@ -99,12 +96,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "18134726858510336",
   "text" : "Wrapping up an evening of pandora and photoshop! It's been a while since I've used ps this much.",
   "id" : 18134726858510336,
-  "created_at" : "Fri Dec 24 02:43:50 +0000 2010",
+  "created_at" : "2010-12-24 02:43:50 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -129,14 +125,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "17994125982826496",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "17997204421607424",
   "in_reply_to_user_id" : 13678852,
   "text" : "@jmccartie Wow!",
   "id" : 17997204421607424,
   "in_reply_to_status_id" : 17994125982826496,
-  "created_at" : "Thu Dec 23 17:37:22 +0000 2010",
+  "created_at" : "2010-12-23 17:37:22 +0000",
   "in_reply_to_screen_name" : "jmccartie",
   "in_reply_to_user_id_str" : "13678852",
   "user" : {
@@ -156,12 +151,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "17997081998262272",
   "text" : "It's so quiet.... I'm the only one in the office right now.",
   "id" : 17997081998262272,
-  "created_at" : "Thu Dec 23 17:36:53 +0000 2010",
+  "created_at" : "2010-12-23 17:36:53 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -186,14 +180,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "17576106320203777",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "17576536848736256",
   "in_reply_to_user_id" : 14125508,
   "text" : "@lynnallan Where are you headed?",
   "id" : 17576536848736256,
   "in_reply_to_status_id" : 17576106320203777,
-  "created_at" : "Wed Dec 22 13:45:47 +0000 2010",
+  "created_at" : "2010-12-22 13:45:47 +0000",
   "in_reply_to_screen_name" : "lynnallan",
   "in_reply_to_user_id_str" : "14125508",
   "user" : {
@@ -219,12 +212,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "15770965443092480",
   "text" : "Giving @linode a try. Doesn't hurt to get $100 free credit!",
   "id" : 15770965443092480,
-  "created_at" : "Fri Dec 17 14:11:05 +0000 2010",
+  "created_at" : "2010-12-17 14:11:05 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -242,12 +234,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "15093271877386241",
   "text" : "Google Fiber announcement pushed to early 2011 http://bit.ly/dTgaTN",
   "id" : 15093271877386241,
-  "created_at" : "Wed Dec 15 17:18:11 +0000 2010",
+  "created_at" : "2010-12-15 17:18:11 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -265,12 +256,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "14861832057524224",
   "text" : "Having trouble with the USPS api again. First-class shipping errors.",
   "id" : 14861832057524224,
-  "created_at" : "Wed Dec 15 01:58:31 +0000 2010",
+  "created_at" : "2010-12-15 01:58:31 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -289,14 +279,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "14809762298331136",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "14810208454840320",
   "in_reply_to_user_id" : 18139130,
   "text" : "@tenaciousJk Oh I saw that...and didn't submit anything...Enjoy it!",
   "id" : 14810208454840320,
   "in_reply_to_status_id" : 14809762298331136,
-  "created_at" : "Tue Dec 14 22:33:23 +0000 2010",
+  "created_at" : "2010-12-14 22:33:23 +0000",
   "in_reply_to_screen_name" : "tenjake",
   "in_reply_to_user_id_str" : "18139130",
   "user" : {
@@ -317,14 +306,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "14808652892340224",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "14808954374721536",
   "in_reply_to_user_id" : 18139130,
   "text" : "@tenaciousJk How did you get in on that deal?",
   "id" : 14808954374721536,
   "in_reply_to_status_id" : 14808652892340224,
-  "created_at" : "Tue Dec 14 22:28:24 +0000 2010",
+  "created_at" : "2010-12-14 22:28:24 +0000",
   "in_reply_to_screen_name" : "tenjake",
   "in_reply_to_user_id_str" : "18139130",
   "user" : {
@@ -344,12 +332,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "14408197158731777",
   "text" : "It's interesting how \"beta\" has moved beyond software and technology. Now books are labeled as \"beta\". See: http://bit.ly/hiWeAo",
   "id" : 14408197158731777,
-  "created_at" : "Mon Dec 13 19:55:56 +0000 2010",
+  "created_at" : "2010-12-13 19:55:56 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -367,12 +354,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "13744642075926528",
   "text" : "The fire is lit, 30 rock is playing and soup is on the way. Let the evening begin!",
   "id" : 13744642075926528,
-  "created_at" : "Sat Dec 11 23:59:12 +0000 2010",
+  "created_at" : "2010-12-11 23:59:12 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -397,14 +383,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "13401637439672320",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "13403099595014144",
   "in_reply_to_user_id" : 10263822,
   "text" : "@michaelreynolds Maggianos was our choice tonight... very good!",
   "id" : 13403099595014144,
   "in_reply_to_status_id" : 13401637439672320,
-  "created_at" : "Sat Dec 11 01:22:02 +0000 2010",
+  "created_at" : "2010-12-11 01:22:02 +0000",
   "in_reply_to_screen_name" : "michaelreynolds",
   "in_reply_to_user_id_str" : "10263822",
   "user" : {
@@ -431,14 +416,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "13372934223564800",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "13400673747996672",
   "in_reply_to_user_id" : 2246091,
   "text" : "@UPSLynx That happened to us when we moved. Not fun. I bought a month of wireless access from verizon to hold me over.",
   "id" : 13400673747996672,
   "in_reply_to_status_id" : 13372934223564800,
-  "created_at" : "Sat Dec 11 01:12:24 +0000 2010",
+  "created_at" : "2010-12-11 01:12:24 +0000",
   "in_reply_to_screen_name" : "UPSLynx",
   "in_reply_to_user_id_str" : "2246091",
   "user" : {
@@ -464,8 +448,7 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "12123781564727296",
   "text" : "RT @GreenDay: Adeline Records has launched a redesign of their online store, and have incl. a 25% off discount for most items. http://wb ...",
   "retweeted_status" : {
@@ -476,12 +459,11 @@ Grailbird.data.tweets_2010_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "11891467924541440",
     "text" : "Adeline Records has launched a redesign of their online store, and have incl. a 25% off discount for most items. http://wbr.fm/gdstore",
     "id" : 11891467924541440,
-    "created_at" : "Mon Dec 06 21:15:21 +0000 2010",
+    "created_at" : "2010-12-06 21:15:21 +0000",
     "user" : {
       "name" : "Green Day",
       "screen_name" : "GreenDay",
@@ -493,7 +475,7 @@ Grailbird.data.tweets_2010_12 =
     }
   },
   "id" : 12123781564727296,
-  "created_at" : "Tue Dec 07 12:38:29 +0000 2010",
+  "created_at" : "2010-12-07 12:38:29 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -517,13 +499,12 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "11746281890250752",
   "in_reply_to_user_id" : 14104847,
   "text" : "@comcastcares Can we get an account credit for this outage? I work from my computer.",
   "id" : 11746281890250752,
-  "created_at" : "Mon Dec 06 11:38:26 +0000 2010",
+  "created_at" : "2010-12-06 11:38:26 +0000",
   "in_reply_to_screen_name" : "comcastcares",
   "in_reply_to_user_id_str" : "14104847",
   "user" : {
@@ -543,12 +524,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "11597975964884992",
   "text" : "Dear comcast, I want my internet back.",
   "id" : 11597975964884992,
-  "created_at" : "Mon Dec 06 01:49:07 +0000 2010",
+  "created_at" : "2010-12-06 01:49:07 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -573,7 +553,7 @@ Grailbird.data.tweets_2010_12 =
   "id_str" : "11568012540772352",
   "text" : "Perfect night for a fire in the fireplace! http://twitpic.com/3db8zl",
   "id" : 11568012540772352,
-  "created_at" : "Sun Dec 05 23:50:03 +0000 2010",
+  "created_at" : "2010-12-05 23:50:03 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -598,14 +578,13 @@ Grailbird.data.tweets_2010_12 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "11102824251269121",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "11104823285911553",
   "in_reply_to_user_id" : 10263822,
   "text" : "@michaelreynolds French toast!",
   "id" : 11104823285911553,
   "in_reply_to_status_id" : 11102824251269121,
-  "created_at" : "Sat Dec 04 17:09:30 +0000 2010",
+  "created_at" : "2010-12-04 17:09:30 +0000",
   "in_reply_to_screen_name" : "michaelreynolds",
   "in_reply_to_user_id_str" : "10263822",
   "user" : {
@@ -625,12 +604,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "11104752020496386",
   "text" : "I love when it's snowing and I don't have to go anywhere.",
   "id" : 11104752020496386,
-  "created_at" : "Sat Dec 04 17:09:13 +0000 2010",
+  "created_at" : "2010-12-04 17:09:13 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -648,12 +626,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "10675606836477952",
   "text" : "My cc company just tried to charge me interest for no reason! Thankfully they are reversing the charge now.",
   "id" : 10675606836477952,
-  "created_at" : "Fri Dec 03 12:43:57 +0000 2010",
+  "created_at" : "2010-12-03 12:43:57 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -674,12 +651,11 @@ Grailbird.data.tweets_2010_12 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "10408695548608513",
   "text" : "Success! Code commit to vcs --&gt; built, tested and deployed automatically! #dotnet Will write it up later.",
   "id" : 10408695548608513,
-  "created_at" : "Thu Dec 02 19:03:21 +0000 2010",
+  "created_at" : "2010-12-02 19:03:21 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -703,8 +679,7 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "10304015950680066",
   "text" : "RT @timbray: \"say -v cellos Droid\"  (only works on Mac)",
   "retweeted_status" : {
@@ -715,12 +690,11 @@ Grailbird.data.tweets_2010_12 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "10204194342445056",
     "text" : "\"say -v cellos Droid\"  (only works on Mac)",
     "id" : 10204194342445056,
-    "created_at" : "Thu Dec 02 05:30:44 +0000 2010",
+    "created_at" : "2010-12-02 05:30:44 +0000",
     "user" : {
       "name" : "Tim Bray",
       "screen_name" : "timbray",
@@ -732,7 +706,7 @@ Grailbird.data.tweets_2010_12 =
     }
   },
   "id" : 10304015950680066,
-  "created_at" : "Thu Dec 02 12:07:23 +0000 2010",
+  "created_at" : "2010-12-02 12:07:23 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -756,12 +730,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "10170494548443136",
   "text" : "Finally home after a long day working with @cmshinkle and Greg - we got a lot accomplished!",
   "id" : 10170494548443136,
-  "created_at" : "Thu Dec 02 03:16:49 +0000 2010",
+  "created_at" : "2010-12-02 03:16:49 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -779,12 +752,11 @@ Grailbird.data.tweets_2010_12 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "9943682186739712",
   "text" : "It is snowing.",
   "id" : 9943682186739712,
-  "created_at" : "Wed Dec 01 12:15:33 +0000 2010",
+  "created_at" : "2010-12-01 12:15:33 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

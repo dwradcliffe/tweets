@@ -14,14 +14,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "329000570025283584",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "329000871478300672",
   "in_reply_to_user_id" : 57613,
   "text" : "@trabianmatt me too! It's been 10 days. They finally gave me meds today.",
   "id" : 329000871478300672,
   "in_reply_to_status_id" : 329000570025283584,
-  "created_at" : "Mon Apr 29 22:34:54 +0000 2013",
+  "created_at" : "2013-04-29 22:34:54 +0000",
   "in_reply_to_screen_name" : "trabianmatt",
   "in_reply_to_user_id_str" : "57613",
   "user" : {
@@ -48,14 +47,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "328999019424669697",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328999447071715328",
   "in_reply_to_user_id" : 57613,
   "text" : "@trabianmatt nope. Sinus infection.",
   "id" : 328999447071715328,
   "in_reply_to_status_id" : 328999019424669697,
-  "created_at" : "Mon Apr 29 22:29:15 +0000 2013",
+  "created_at" : "2013-04-29 22:29:15 +0000",
   "in_reply_to_screen_name" : "trabianmatt",
   "in_reply_to_user_id_str" : "57613",
   "user" : {
@@ -78,12 +76,11 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328967340140146688",
   "text" : "Wish I was at #railsconf this week. Instead, I'm home sick.",
   "id" : 328967340140146688,
-  "created_at" : "Mon Apr 29 20:21:40 +0000 2013",
+  "created_at" : "2013-04-29 20:21:40 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -108,7 +105,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "328607827042111489",
   "text" : "Getting ready to leave Texas behind. It's been fun!",
   "id" : 328607827042111489,
-  "created_at" : "Sun Apr 28 20:33:05 +0000 2013",
+  "created_at" : "2013-04-28 20:33:05 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -133,14 +130,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "328564333963534336",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328576442281623552",
   "in_reply_to_user_id" : 205099695,
   "text" : "@kyleashipley Too many. Mac, 2 iPads, kindle and all the cables.",
   "id" : 328576442281623552,
   "in_reply_to_status_id" : 328564333963534336,
-  "created_at" : "Sun Apr 28 18:28:23 +0000 2013",
+  "created_at" : "2013-04-28 18:28:23 +0000",
   "in_reply_to_screen_name" : "kyleashipley",
   "in_reply_to_user_id_str" : "205099695",
   "user" : {
@@ -167,14 +163,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "328570203623550976",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328575206694219776",
   "in_reply_to_user_id" : 43906009,
   "text" : "@teresabay crazy. I haven't been there in several years.",
   "id" : 328575206694219776,
   "in_reply_to_status_id" : 328570203623550976,
-  "created_at" : "Sun Apr 28 18:23:28 +0000 2013",
+  "created_at" : "2013-04-28 18:23:28 +0000",
   "in_reply_to_screen_name" : "teresabay",
   "in_reply_to_user_id_str" : "43906009",
   "user" : {
@@ -194,12 +189,11 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328555420270600193",
   "text" : "And now we are sitting on the tarmac while a maintenance crew works on our plane...",
   "id" : 328555420270600193,
-  "created_at" : "Sun Apr 28 17:04:51 +0000 2013",
+  "created_at" : "2013-04-28 17:04:51 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -224,14 +218,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "328544035713196033",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328544180693528577",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard what did you expect?? :)",
   "id" : 328544180693528577,
   "in_reply_to_status_id" : 328544035713196033,
-  "created_at" : "Sun Apr 28 16:20:11 +0000 2013",
+  "created_at" : "2013-04-28 16:20:11 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -258,14 +251,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "328539945746694144",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328543182730194945",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard Mac, 2 iPads, kindle and all the cords",
   "id" : 328543182730194945,
   "in_reply_to_status_id" : 328539945746694144,
-  "created_at" : "Sun Apr 28 16:16:13 +0000 2013",
+  "created_at" : "2013-04-28 16:16:13 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -292,7 +284,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "328539491226763266",
   "text" : "I got stopped by TSA security for having too much technology. Oops.",
   "id" : 328539491226763266,
-  "created_at" : "Sun Apr 28 16:01:33 +0000 2013",
+  "created_at" : "2013-04-28 16:01:33 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -322,7 +314,7 @@ Grailbird.data.tweets_2013_04 =
   "id_str" : "328288257362259968",
   "text" : "Katie and the crawfish! @ The Point Park And Eats http://t.co/DA8FGlUxiz",
   "id" : 328288257362259968,
-  "created_at" : "Sat Apr 27 23:23:14 +0000 2013",
+  "created_at" : "2013-04-27 23:23:14 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -343,12 +335,11 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "328280249114718208",
   "text" : "Tried frog legs... Not too bad. #trabianretreat2013",
   "id" : 328280249114718208,
-  "created_at" : "Sat Apr 27 22:51:25 +0000 2013",
+  "created_at" : "2013-04-27 22:51:25 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -362,7 +353,7 @@ Grailbird.data.tweets_2013_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FOX59 ",
+      "name" : "FOX59 News",
       "screen_name" : "FOX59",
       "indices" : [ 0, 6 ],
       "id_str" : "16440677",
@@ -373,14 +364,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "327764049641213952",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "327766198299271169",
   "in_reply_to_user_id" : 16440677,
   "text" : "@FOX59 \"suspects\" plural???",
   "id" : 327766198299271169,
   "in_reply_to_status_id" : 327764049641213952,
-  "created_at" : "Fri Apr 26 12:48:45 +0000 2013",
+  "created_at" : "2013-04-26 12:48:45 +0000",
   "in_reply_to_screen_name" : "FOX59",
   "in_reply_to_user_id_str" : "16440677",
   "user" : {
@@ -406,12 +396,11 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "327200042391838720",
   "text" : "See ya later Indy! Heading to the @trabian retreat!",
   "id" : 327200042391838720,
-  "created_at" : "Wed Apr 24 23:19:03 +0000 2013",
+  "created_at" : "2013-04-24 23:19:03 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -435,13 +424,12 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "327192559002734593",
   "in_reply_to_user_id" : 22536055,
   "text" : "@AmericanAir the gate agent was very helpful!",
   "id" : 327192559002734593,
-  "created_at" : "Wed Apr 24 22:49:19 +0000 2013",
+  "created_at" : "2013-04-24 22:49:19 +0000",
   "in_reply_to_screen_name" : "AmericanAir",
   "in_reply_to_user_id_str" : "22536055",
   "user" : {
@@ -470,12 +458,11 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "326845400713678849",
   "text" : "\"The New American\" @AmericanAir equals new fees. $25 to change your seats. Plus the seat fee. #nothappy",
   "id" : 326845400713678849,
-  "created_at" : "Tue Apr 23 23:49:50 +0000 2013",
+  "created_at" : "2013-04-23 23:49:50 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -513,8 +500,7 @@ Grailbird.data.tweets_2013_04 =
       "display_url" : "diy.org/cram/001eyv"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "326817016067534849",
   "text" : "RT @StephenThorpey: The Harlem Shake has nothing on Hallway Swimming https://t.co/j1bGrJeolN via @DIY #KidsAreAwesome",
   "retweeted_status" : {
@@ -539,24 +525,23 @@ Grailbird.data.tweets_2013_04 =
         "display_url" : "diy.org/cram/001eyv"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "326814182232162305",
     "text" : "The Harlem Shake has nothing on Hallway Swimming https://t.co/j1bGrJeolN via @DIY #KidsAreAwesome",
     "id" : 326814182232162305,
-    "created_at" : "Tue Apr 23 21:45:47 +0000 2013",
+    "created_at" : "2013-04-23 21:45:47 +0000",
     "user" : {
       "name" : "Stephen Thorpey",
       "screen_name" : "StephenThorpey",
       "protected" : false,
       "id_str" : "196756648",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3457996471/4da6761e38affcd50644563211924284_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000130408613/24d3f5b58b1a10881ba9fac5feb07c75_normal.jpeg",
       "id" : 196756648,
       "verified" : false
     }
   },
   "id" : 326817016067534849,
-  "created_at" : "Tue Apr 23 21:57:03 +0000 2013",
+  "created_at" : "2013-04-23 21:57:03 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -570,11 +555,11 @@ Grailbird.data.tweets_2013_04 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boston Police Dept.",
-      "screen_name" : "Boston_Police",
+      "name" : "boston police",
+      "screen_name" : "boston_police",
       "indices" : [ 3, 17 ],
-      "id_str" : "19185333",
-      "id" : 19185333
+      "id_str" : "1729132663",
+      "id" : 1729132663
     } ],
     "media" : [ {
       "expanded_url" : "http://twitter.com/Boston_Police/status/325971416933621760/photo/1",
@@ -610,8 +595,7 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "326023099113943040",
   "text" : "RT @Boston_Police: BPD Officer delivers milk to a family with young children in Watertown during the lockdown.. http://t.co/qEpjpf80U0",
   "retweeted_status" : {
@@ -619,7 +603,7 @@ Grailbird.data.tweets_2013_04 =
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
-        "expanded_url" : "http://twitter.com/Boston_Police/status/325971416933621760/photo/1",
+        "expanded_url" : "http://twitter.com/bostonpolice/status/325971416933621760/photo/1",
         "indices" : [ 93, 115 ],
         "url" : "http://t.co/qEpjpf80U0",
         "media_url" : "http://pbs.twimg.com/media/BIYVRtGCYAMYBje.png",
@@ -652,24 +636,23 @@ Grailbird.data.tweets_2013_04 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "325971416933621760",
     "text" : "BPD Officer delivers milk to a family with young children in Watertown during the lockdown.. http://t.co/qEpjpf80U0",
     "id" : 325971416933621760,
-    "created_at" : "Sun Apr 21 13:56:56 +0000 2013",
+    "created_at" : "2013-04-21 13:56:56 +0000",
     "user" : {
       "name" : "Boston Police Dept.",
-      "screen_name" : "Boston_Police",
+      "screen_name" : "bostonpolice",
       "protected" : false,
       "id_str" : "19185333",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/72731279/coin_boston_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000320802293/1ab010277a4131b6ba25b406e8bc4ab1_normal.jpeg",
       "id" : 19185333,
       "verified" : true
     }
   },
   "id" : 326023099113943040,
-  "created_at" : "Sun Apr 21 17:22:18 +0000 2013",
+  "created_at" : "2013-04-21 17:22:18 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -693,8 +676,7 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "325228966552145920",
   "text" : "RT @TownofAvonIN: flooding: water in road on Dan Jones near Cobblestone Springs but it is passable.",
   "retweeted_status" : {
@@ -705,12 +687,11 @@ Grailbird.data.tweets_2013_04 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "325224367158067201",
     "text" : "flooding: water in road on Dan Jones near Cobblestone Springs but it is passable.",
     "id" : 325224367158067201,
-    "created_at" : "Fri Apr 19 12:28:26 +0000 2013",
+    "created_at" : "2013-04-19 12:28:26 +0000",
     "user" : {
       "name" : "Town of Avon",
       "screen_name" : "TownofAvonIN",
@@ -722,7 +703,7 @@ Grailbird.data.tweets_2013_04 =
     }
   },
   "id" : 325228966552145920,
-  "created_at" : "Fri Apr 19 12:46:42 +0000 2013",
+  "created_at" : "2013-04-19 12:46:42 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -743,12 +724,11 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "325126876022587392",
   "text" : "Listening to more terror unfold in #boston tonight.",
   "id" : 325126876022587392,
-  "created_at" : "Fri Apr 19 06:01:02 +0000 2013",
+  "created_at" : "2013-04-19 06:01:02 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -773,14 +753,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "323978702239174658",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "324162958064246785",
   "in_reply_to_user_id" : 50330729,
   "text" : "@jaimefjorge Thank you!",
   "id" : 324162958064246785,
   "in_reply_to_status_id" : 323978702239174658,
-  "created_at" : "Tue Apr 16 14:10:46 +0000 2013",
+  "created_at" : "2013-04-16 14:10:46 +0000",
   "in_reply_to_screen_name" : "jaimefjorge",
   "in_reply_to_user_id_str" : "50330729",
   "user" : {
@@ -811,8 +790,7 @@ Grailbird.data.tweets_2013_04 =
       "display_url" : "live.boston.com/Event/Live_blo\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "323900831269269504",
   "text" : "RT @alex_g_campbell: Horrifying up close video as it happened. http://t.co/lqJD7TGlDP",
   "retweeted_status" : {
@@ -828,24 +806,23 @@ Grailbird.data.tweets_2013_04 =
         "display_url" : "live.boston.com/Event/Live_blo\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "323899990231617537",
     "text" : "Horrifying up close video as it happened. http://t.co/lqJD7TGlDP",
     "id" : 323899990231617537,
-    "created_at" : "Mon Apr 15 20:45:50 +0000 2013",
+    "created_at" : "2013-04-15 20:45:50 +0000",
     "user" : {
       "name" : "Alex Campbell",
       "screen_name" : "alex_g_campbell",
       "protected" : false,
       "id_str" : "40826726",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3535859868/4a80f61bd0d7010f92bf24f8c220274d_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000563813876/c899dae7005e285a0c6b4767c0ea00f5_normal.jpeg",
       "id" : 40826726,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 323900831269269504,
-  "created_at" : "Mon Apr 15 20:49:10 +0000 2013",
+  "created_at" : "2013-04-15 20:49:10 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -875,14 +852,13 @@ Grailbird.data.tweets_2013_04 =
     } ]
   },
   "in_reply_to_status_id_str" : "323888642013659138",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "323894065798189056",
   "in_reply_to_user_id" : 86622558,
   "text" : "@Tim_Bousquet Red Cross has one: http://t.co/booKmEYP9x",
   "id" : 323894065798189056,
   "in_reply_to_status_id" : 323888642013659138,
-  "created_at" : "Mon Apr 15 20:22:17 +0000 2013",
+  "created_at" : "2013-04-15 20:22:17 +0000",
   "in_reply_to_screen_name" : "Tim_Bousquet",
   "in_reply_to_user_id_str" : "86622558",
   "user" : {
@@ -905,12 +881,11 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "323877661908819968",
   "text" : "Wow. Praying for Boston. #bostonmarathon",
   "id" : 323877661908819968,
-  "created_at" : "Mon Apr 15 19:17:06 +0000 2013",
+  "created_at" : "2013-04-15 19:17:06 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -935,14 +910,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "323748011152920576",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "323759000384589825",
   "in_reply_to_user_id" : 862310262,
   "text" : "@skern1967 I suppose that is appropriate for this morning :)",
   "id" : 323759000384589825,
   "in_reply_to_status_id" : 323748011152920576,
-  "created_at" : "Mon Apr 15 11:25:35 +0000 2013",
+  "created_at" : "2013-04-15 11:25:35 +0000",
   "in_reply_to_screen_name" : "skern1967",
   "in_reply_to_user_id_str" : "862310262",
   "user" : {
@@ -969,14 +943,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "323221573505011712",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "323243412562264065",
   "in_reply_to_user_id" : 14858196,
   "text" : "@jeremykarney Did you make your goal for the week?",
   "id" : 323243412562264065,
   "in_reply_to_status_id" : 323221573505011712,
-  "created_at" : "Sun Apr 14 01:16:49 +0000 2013",
+  "created_at" : "2013-04-14 01:16:49 +0000",
   "in_reply_to_screen_name" : "jeremykarney",
   "in_reply_to_user_id_str" : "14858196",
   "user" : {
@@ -1003,14 +976,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "322711709129244672",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "322712545729339392",
   "in_reply_to_user_id" : 15674759,
   "text" : "@pingdom Thanks!",
   "id" : 322712545729339392,
   "in_reply_to_status_id" : 322711709129244672,
-  "created_at" : "Fri Apr 12 14:07:21 +0000 2013",
+  "created_at" : "2013-04-12 14:07:21 +0000",
   "in_reply_to_screen_name" : "pingdom",
   "in_reply_to_user_id_str" : "15674759",
   "user" : {
@@ -1037,14 +1009,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "322417971219791872",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "322420998974603264",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard I would, but I don't know what that means.",
   "id" : 322420998974603264,
   "in_reply_to_status_id" : 322417971219791872,
-  "created_at" : "Thu Apr 11 18:48:51 +0000 2013",
+  "created_at" : "2013-04-11 18:48:51 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -1070,13 +1041,12 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "322416252511461376",
   "in_reply_to_user_id" : 17351175,
   "text" : "@tenderapp Your app is really dragging today.. sooo slooww.",
   "id" : 322416252511461376,
-  "created_at" : "Thu Apr 11 18:29:59 +0000 2013",
+  "created_at" : "2013-04-11 18:29:59 +0000",
   "in_reply_to_screen_name" : "tenderapp",
   "in_reply_to_user_id_str" : "17351175",
   "user" : {
@@ -1132,8 +1102,7 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "321957464176209920",
   "text" : "RT @alliecoyne: How to write good http://t.co/IwTo3HXqdH",
   "retweeted_status" : {
@@ -1174,12 +1143,11 @@ Grailbird.data.tweets_2013_04 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "320426943826755584",
     "text" : "How to write good http://t.co/IwTo3HXqdH",
     "id" : 320426943826755584,
-    "created_at" : "Sat Apr 06 06:45:11 +0000 2013",
+    "created_at" : "2013-04-06 06:45:11 +0000",
     "user" : {
       "name" : "Allie Coyne",
       "screen_name" : "alliecoyne",
@@ -1191,7 +1159,7 @@ Grailbird.data.tweets_2013_04 =
     }
   },
   "id" : 321957464176209920,
-  "created_at" : "Wed Apr 10 12:06:55 +0000 2013",
+  "created_at" : "2013-04-10 12:06:55 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1216,14 +1184,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "321152613804560385",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "321213574154432512",
   "in_reply_to_user_id" : 597758110,
   "text" : "@b_schei That sounds painful.",
   "id" : 321213574154432512,
   "in_reply_to_status_id" : 321152613804560385,
-  "created_at" : "Mon Apr 08 10:50:58 +0000 2013",
+  "created_at" : "2013-04-08 10:50:58 +0000",
   "in_reply_to_screen_name" : "b_schei",
   "in_reply_to_user_id_str" : "597758110",
   "user" : {
@@ -1246,12 +1213,11 @@ Grailbird.data.tweets_2013_04 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "320894284507279360",
   "text" : "\"Even sinners were offended by tax collectors.\" #FollowSeries",
   "id" : 320894284507279360,
-  "created_at" : "Sun Apr 07 13:42:14 +0000 2013",
+  "created_at" : "2013-04-07 13:42:14 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1281,8 +1247,7 @@ Grailbird.data.tweets_2013_04 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "320723205574774784",
   "text" : "RT @rubygems_status: Great writeup of why pushes (and emails) were down today. Thanks to @samkottler for writing this up! http://t.co/2g ...",
   "retweeted_status" : {
@@ -1304,12 +1269,11 @@ Grailbird.data.tweets_2013_04 =
         "display_url" : "blog.rubygems.org/2013/04/06/pos\u2026"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "320720622894333954",
     "text" : "Great writeup of why pushes (and emails) were down today. Thanks to @samkottler for writing this up! http://t.co/2golDj9xhd",
     "id" : 320720622894333954,
-    "created_at" : "Sun Apr 07 02:12:09 +0000 2013",
+    "created_at" : "2013-04-07 02:12:09 +0000",
     "user" : {
       "name" : "RubyGems Status",
       "screen_name" : "rubygems_status",
@@ -1321,7 +1285,7 @@ Grailbird.data.tweets_2013_04 =
     }
   },
   "id" : 320723205574774784,
-  "created_at" : "Sun Apr 07 02:22:25 +0000 2013",
+  "created_at" : "2013-04-07 02:22:25 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -1346,14 +1310,13 @@ Grailbird.data.tweets_2013_04 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "320163185468506112",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "320166941232881666",
   "in_reply_to_user_id" : 937561,
   "text" : "@jm This is getting ridiculous.",
   "id" : 320166941232881666,
   "in_reply_to_status_id" : 320163185468506112,
-  "created_at" : "Fri Apr 05 13:32:01 +0000 2013",
+  "created_at" : "2013-04-05 13:32:01 +0000",
   "in_reply_to_screen_name" : "jm",
   "in_reply_to_user_id_str" : "937561",
   "user" : {
@@ -1387,12 +1350,11 @@ Grailbird.data.tweets_2013_04 =
       "display_url" : "spr.ly/ker"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "319284771182223360",
   "text" : "John Kerry, pls prioritize solutions on CAR overthrow and stand by mission to stop Kony @StateDept #kerrystopkony http://t.co/pcZF7cE3kf",
   "id" : 319284771182223360,
-  "created_at" : "Wed Apr 03 03:06:36 +0000 2013",
+  "created_at" : "2013-04-03 03:06:36 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

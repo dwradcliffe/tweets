@@ -14,7 +14,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "26334568986451968",
   "text" : "Mooooving.",
   "id" : 26334568986451968,
-  "created_at" : "Sat Jan 15 17:47:05 +0000 2011",
+  "created_at" : "2011-01-15 17:47:05 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -32,12 +32,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "26105687482310657",
   "text" : "packing.",
   "id" : 26105687482310657,
-  "created_at" : "Sat Jan 15 02:37:35 +0000 2011",
+  "created_at" : "2011-01-15 02:37:35 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -55,12 +54,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "25936092570066944",
   "text" : "Managing multiple web app configs in .NET - http://bit.ly/ftjnnX",
   "id" : 25936092570066944,
-  "created_at" : "Fri Jan 14 15:23:40 +0000 2011",
+  "created_at" : "2011-01-14 15:23:40 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -88,7 +86,7 @@ Grailbird.data.tweets_2011_01 =
   "text" : "@johnstipe well of course I will, every morning!",
   "id" : 25899060552540161,
   "in_reply_to_status_id" : 25896920010461184,
-  "created_at" : "Fri Jan 14 12:56:31 +0000 2011",
+  "created_at" : "2011-01-14 12:56:31 +0000",
   "in_reply_to_screen_name" : "mr7914",
   "in_reply_to_user_id_str" : "216903983",
   "user" : {
@@ -108,12 +106,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "25878153213771776",
   "text" : "Nothing like waking up to server problems ... on the flip side... last day waking up this early!",
   "id" : 25878153213771776,
-  "created_at" : "Fri Jan 14 11:33:27 +0000 2011",
+  "created_at" : "2011-01-14 11:33:27 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -131,12 +128,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "23485904182050816",
   "text" : "Reallllly enjoying the 4GB to 8GB RAM upgrade!",
   "id" : 23485904182050816,
-  "created_at" : "Fri Jan 07 21:07:30 +0000 2011",
+  "created_at" : "2011-01-07 21:07:30 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -161,7 +157,7 @@ Grailbird.data.tweets_2011_01 =
   "id_str" : "23070854074081280",
   "text" : "I hate insurance companies.",
   "id" : 23070854074081280,
-  "created_at" : "Thu Jan 06 17:38:14 +0000 2011",
+  "created_at" : "2011-01-06 17:38:14 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -179,12 +175,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "23027480306651136",
   "text" : "The name of this unit test I'm writing is Can_Clone_Person(). It's currently failing.",
   "id" : 23027480306651136,
-  "created_at" : "Thu Jan 06 14:45:53 +0000 2011",
+  "created_at" : "2011-01-06 14:45:53 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -212,14 +207,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "23026763047112705",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "23027115628695553",
   "in_reply_to_user_id" : 97061259,
   "text" : "@jrbeutler Actually, it's 2011. #EvenWorse",
   "id" : 23027115628695553,
   "in_reply_to_status_id" : 23026763047112705,
-  "created_at" : "Thu Jan 06 14:44:26 +0000 2011",
+  "created_at" : "2011-01-06 14:44:26 +0000",
   "in_reply_to_screen_name" : "jrbeutler",
   "in_reply_to_user_id_str" : "97061259",
   "user" : {
@@ -245,12 +239,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "22408254122369025",
   "text" : "I always get excellent customer service from @USAA. Nice job.",
   "id" : 22408254122369025,
-  "created_at" : "Tue Jan 04 21:45:18 +0000 2011",
+  "created_at" : "2011-01-04 21:45:18 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -274,13 +267,12 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "22346121871368192",
   "in_reply_to_user_id" : 5676102,
   "text" : "@shanselman I switched from AT&T to Verizon - well worth the penalty! Never looked back.",
   "id" : 22346121871368192,
-  "created_at" : "Tue Jan 04 17:38:25 +0000 2011",
+  "created_at" : "2011-01-04 17:38:25 +0000",
   "in_reply_to_screen_name" : "shanselman",
   "in_reply_to_user_id_str" : "5676102",
   "user" : {
@@ -307,14 +299,13 @@ Grailbird.data.tweets_2011_01 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "22345581150076928",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "22345918539894784",
   "in_reply_to_user_id" : 17543210,
   "text" : "@brewhouse Lots of banks and CUs have this too!",
   "id" : 22345918539894784,
   "in_reply_to_status_id" : 22345581150076928,
-  "created_at" : "Tue Jan 04 17:37:36 +0000 2011",
+  "created_at" : "2011-01-04 17:37:36 +0000",
   "in_reply_to_screen_name" : "brewhouse",
   "in_reply_to_user_id_str" : "17543210",
   "user" : {
@@ -334,12 +325,11 @@ Grailbird.data.tweets_2011_01 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "21070282554867712",
   "text" : "Happy new year!",
   "id" : 21070282554867712,
-  "created_at" : "Sat Jan 01 05:08:41 +0000 2011",
+  "created_at" : "2011-01-01 05:08:41 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",

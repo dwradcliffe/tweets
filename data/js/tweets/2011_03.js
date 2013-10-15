@@ -22,12 +22,11 @@ Grailbird.data.tweets_2011_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "53436323540901888",
   "text" : "I\u2019m celebrating #WorldBackupDay by backing up my personal and business data with @CrashPlan! How are you celebrating @WorldBackUpDay?",
   "id" : 53436323540901888,
-  "created_at" : "Thu Mar 31 12:39:46 +0000 2011",
+  "created_at" : "2011-03-31 12:39:46 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -45,12 +44,11 @@ Grailbird.data.tweets_2011_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "53435801639469056",
   "text" : "Thank you 1&1. Worst provider ever. https://img.skitch.com/20110331-cmw8fc5x2y76mredqjakuj3xji.png",
   "id" : 53435801639469056,
-  "created_at" : "Thu Mar 31 12:37:42 +0000 2011",
+  "created_at" : "2011-03-31 12:37:42 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -74,13 +72,12 @@ Grailbird.data.tweets_2011_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "52748279343099904",
   "in_reply_to_user_id" : 15141363,
   "text" : "@webbynode My server went offline for no reason again! And it's taking forever to come back online!",
   "id" : 52748279343099904,
-  "created_at" : "Tue Mar 29 15:05:44 +0000 2011",
+  "created_at" : "2011-03-29 15:05:44 +0000",
   "in_reply_to_screen_name" : "webbynode",
   "in_reply_to_user_id_str" : "15141363",
   "user" : {
@@ -107,14 +104,13 @@ Grailbird.data.tweets_2011_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "51363975765557248",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "51367172995420160",
   "in_reply_to_user_id" : 40487042,
   "text" : "@R0BBYF0STER Is that a good thing or a bad thing?",
   "id" : 51367172995420160,
   "in_reply_to_status_id" : 51363975765557248,
-  "created_at" : "Fri Mar 25 19:37:43 +0000 2011",
+  "created_at" : "2011-03-25 19:37:43 +0000",
   "in_reply_to_screen_name" : "R0BBYF0STER",
   "in_reply_to_user_id_str" : "40487042",
   "user" : {
@@ -134,12 +130,11 @@ Grailbird.data.tweets_2011_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "51327813449555968",
   "text" : "symlinks make the world go 'round",
   "id" : 51327813449555968,
-  "created_at" : "Fri Mar 25 17:01:19 +0000 2011",
+  "created_at" : "2011-03-25 17:01:19 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -157,12 +152,11 @@ Grailbird.data.tweets_2011_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "50562513506545664",
   "text" : "Chef rocks.",
   "id" : 50562513506545664,
-  "created_at" : "Wed Mar 23 14:20:17 +0000 2011",
+  "created_at" : "2011-03-23 14:20:17 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -201,8 +195,7 @@ Grailbird.data.tweets_2011_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "48530037984604160",
   "text" : "RT @ckrewson: RT @lorikozlowski Satellite images of #Japan, before and after the earthquake: http://lat.ms/gbiL61 (via @emamd) - Simple, ...",
   "retweeted_status" : {
@@ -228,12 +221,11 @@ Grailbird.data.tweets_2011_03 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "48525389663977472",
     "text" : "RT @lorikozlowski Satellite images of #Japan, before and after the earthquake: http://lat.ms/gbiL61 (via @emamd) - Simple, elegant, powerful",
     "id" : 48525389663977472,
-    "created_at" : "Thu Mar 17 23:25:29 +0000 2011",
+    "created_at" : "2011-03-17 23:25:29 +0000",
     "user" : {
       "name" : "Chris Krewson",
       "screen_name" : "ckrewson",
@@ -245,7 +237,7 @@ Grailbird.data.tweets_2011_03 =
     }
   },
   "id" : 48530037984604160,
-  "created_at" : "Thu Mar 17 23:43:57 +0000 2011",
+  "created_at" : "2011-03-17 23:43:57 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -274,12 +266,11 @@ Grailbird.data.tweets_2011_03 =
       "display_url" : "ducksboard.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "48051740616044547",
   "text" : "Testing @ducksboard, a real-time dashboard for monitoring your web metrics and SaaS apps http://t.co/Gzk4WzV",
   "id" : 48051740616044547,
-  "created_at" : "Wed Mar 16 16:03:22 +0000 2011",
+  "created_at" : "2011-03-16 16:03:22 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -304,14 +295,13 @@ Grailbird.data.tweets_2011_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "46474511251542016",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "46548420751667200",
   "in_reply_to_user_id" : 14222410,
   "text" : "@browniepoints uh oh. Now I am!",
   "id" : 46548420751667200,
   "in_reply_to_status_id" : 46474511251542016,
-  "created_at" : "Sat Mar 12 12:29:42 +0000 2011",
+  "created_at" : "2011-03-12 12:29:42 +0000",
   "in_reply_to_screen_name" : "browniepoints",
   "in_reply_to_user_id_str" : "14222410",
   "user" : {
@@ -338,14 +328,13 @@ Grailbird.data.tweets_2011_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "45902525341253632",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "45903403074859008",
   "in_reply_to_user_id" : 768197,
   "text" : "@haacked Yeah, Pingdom is pretty much the best.",
   "id" : 45903403074859008,
   "in_reply_to_status_id" : 45902525341253632,
-  "created_at" : "Thu Mar 10 17:46:38 +0000 2011",
+  "created_at" : "2011-03-10 17:46:38 +0000",
   "in_reply_to_screen_name" : "haacked",
   "in_reply_to_user_id_str" : "768197",
   "user" : {

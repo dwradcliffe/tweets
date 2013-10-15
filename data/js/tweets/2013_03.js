@@ -14,14 +14,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "317607320832061440",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "317616909443026944",
   "in_reply_to_user_id" : 103914540,
   "text" : "@samkottler I need to do that. Sure didn't happen today!",
   "id" : 317616909443026944,
   "in_reply_to_status_id" : 317607320832061440,
-  "created_at" : "Fri Mar 29 12:39:06 +0000 2013",
+  "created_at" : "2013-03-29 12:39:06 +0000",
   "in_reply_to_screen_name" : "samkottler",
   "in_reply_to_user_id_str" : "103914540",
   "user" : {
@@ -53,8 +52,7 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "316869886947250178",
   "text" : "RT @Ali_Shafai: My team just launched the first native Windows Phone app in the credit union industry\u2026special thanks to @trabian.",
   "retweeted_status" : {
@@ -71,12 +69,11 @@ Grailbird.data.tweets_2013_03 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "316780063318224896",
     "text" : "My team just launched the first native Windows Phone app in the credit union industry\u2026special thanks to @trabian.",
     "id" : 316780063318224896,
-    "created_at" : "Wed Mar 27 05:13:47 +0000 2013",
+    "created_at" : "2013-03-27 05:13:47 +0000",
     "user" : {
       "name" : "Ali Shafai",
       "screen_name" : "Ali_Shafai",
@@ -88,7 +85,7 @@ Grailbird.data.tweets_2013_03 =
     }
   },
   "id" : 316869886947250178,
-  "created_at" : "Wed Mar 27 11:10:42 +0000 2013",
+  "created_at" : "2013-03-27 11:10:42 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -113,14 +110,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "316744551584915456",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "316748666041925633",
   "in_reply_to_user_id" : 937561,
   "text" : "@jm nginx + unicorn",
   "id" : 316748666041925633,
   "in_reply_to_status_id" : 316744551584915456,
-  "created_at" : "Wed Mar 27 03:09:01 +0000 2013",
+  "created_at" : "2013-03-27 03:09:01 +0000",
   "in_reply_to_screen_name" : "jm",
   "in_reply_to_user_id_str" : "937561",
   "user" : {
@@ -146,13 +142,12 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "315054810988703744",
   "in_reply_to_user_id" : 14788026,
   "text" : "@myenergy Neat concept, but useless because you don't have my water co listed, gas is not yet supported, and electric says login failed. :(",
   "id" : 315054810988703744,
-  "created_at" : "Fri Mar 22 10:58:15 +0000 2013",
+  "created_at" : "2013-03-22 10:58:15 +0000",
   "in_reply_to_screen_name" : "myenergy",
   "in_reply_to_user_id_str" : "14788026",
   "user" : {
@@ -179,14 +174,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "314876299309101057",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314902922062360576",
   "in_reply_to_user_id" : 103914540,
   "text" : "@samkottler I would have joined you if my day hadn't been crazy. Looking forward to listening.",
   "id" : 314902922062360576,
   "in_reply_to_status_id" : 314876299309101057,
-  "created_at" : "Fri Mar 22 00:54:41 +0000 2013",
+  "created_at" : "2013-03-22 00:54:41 +0000",
   "in_reply_to_screen_name" : "samkottler",
   "in_reply_to_user_id_str" : "103914540",
   "user" : {
@@ -213,14 +207,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "314405789970337792",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314406084318228480",
   "in_reply_to_user_id" : 867511,
   "text" : "@joelmoss I thought it worked if you have admin rights to the repo, but I could be wrong. That is a rough spot with PRs.",
   "id" : 314406084318228480,
   "in_reply_to_status_id" : 314405789970337792,
-  "created_at" : "Wed Mar 20 16:00:26 +0000 2013",
+  "created_at" : "2013-03-20 16:00:26 +0000",
   "in_reply_to_screen_name" : "joelmoss",
   "in_reply_to_user_id_str" : "867511",
   "user" : {
@@ -252,14 +245,13 @@ Grailbird.data.tweets_2013_03 =
     } ]
   },
   "in_reply_to_status_id_str" : "314405327003058176",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314405589251932161",
   "in_reply_to_user_id" : 867511,
   "text" : "@joelmoss You can convert an issue into a PR via command line. https://t.co/8mENVcKm8X",
   "id" : 314405589251932161,
   "in_reply_to_status_id" : 314405327003058176,
-  "created_at" : "Wed Mar 20 15:58:28 +0000 2013",
+  "created_at" : "2013-03-20 15:58:28 +0000",
   "in_reply_to_screen_name" : "joelmoss",
   "in_reply_to_user_id_str" : "867511",
   "user" : {
@@ -286,14 +278,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "314399647047229440",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314400498197348353",
   "in_reply_to_user_id" : 867511,
   "text" : "@joelmoss Why not GitHub issues?",
   "id" : 314400498197348353,
   "in_reply_to_status_id" : 314399647047229440,
-  "created_at" : "Wed Mar 20 15:38:14 +0000 2013",
+  "created_at" : "2013-03-20 15:38:14 +0000",
   "in_reply_to_screen_name" : "joelmoss",
   "in_reply_to_user_id_str" : "867511",
   "user" : {
@@ -320,14 +311,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "314098621601697792",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314109366016024576",
   "in_reply_to_user_id" : 8262232,
   "text" : "@loswhit web or mobile or both?",
   "id" : 314109366016024576,
   "in_reply_to_status_id" : 314098621601697792,
-  "created_at" : "Tue Mar 19 20:21:23 +0000 2013",
+  "created_at" : "2013-03-19 20:21:23 +0000",
   "in_reply_to_screen_name" : "loswhit",
   "in_reply_to_user_id_str" : "8262232",
   "user" : {
@@ -354,14 +344,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "314014739942494209",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314016615899471872",
   "in_reply_to_user_id" : 19941586,
   "text" : "@ivanristic Hard to tell. Way too enterprise-y. :/",
   "id" : 314016615899471872,
   "in_reply_to_status_id" : 314014739942494209,
-  "created_at" : "Tue Mar 19 14:12:50 +0000 2013",
+  "created_at" : "2013-03-19 14:12:50 +0000",
   "in_reply_to_screen_name" : "ivanristic",
   "in_reply_to_user_id_str" : "19941586",
   "user" : {
@@ -387,13 +376,12 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "314012639485386752",
   "in_reply_to_user_id" : 19941586,
   "text" : "@ivanristic I'd love to be able to login to ssllabs and see a list of my sites with their reports. Maybe alerts if the score changes? :)",
   "id" : 314012639485386752,
-  "created_at" : "Tue Mar 19 13:57:01 +0000 2013",
+  "created_at" : "2013-03-19 13:57:01 +0000",
   "in_reply_to_screen_name" : "ivanristic",
   "in_reply_to_user_id_str" : "19941586",
   "user" : {
@@ -425,7 +413,7 @@ Grailbird.data.tweets_2013_03 =
   "id_str" : "313994496708853760",
   "text" : "Good morning! @ Avon, Indiana http://t.co/cAqhntZYBR",
   "id" : 313994496708853760,
-  "created_at" : "Tue Mar 19 12:44:56 +0000 2013",
+  "created_at" : "2013-03-19 12:44:56 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -450,14 +438,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "313663254104797186",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "313666064598843392",
   "in_reply_to_user_id" : 19941586,
   "text" : "@ivanristic Thanks!",
   "id" : 313666064598843392,
   "in_reply_to_status_id" : 313663254104797186,
-  "created_at" : "Mon Mar 18 14:59:52 +0000 2013",
+  "created_at" : "2013-03-18 14:59:52 +0000",
   "in_reply_to_screen_name" : "ivanristic",
   "in_reply_to_user_id_str" : "19941586",
   "user" : {
@@ -483,13 +470,12 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "313630228058615808",
   "in_reply_to_user_id" : 19941586,
   "text" : "@ivanristic Is ssllabs down?",
   "id" : 313630228058615808,
-  "created_at" : "Mon Mar 18 12:37:27 +0000 2013",
+  "created_at" : "2013-03-18 12:37:27 +0000",
   "in_reply_to_screen_name" : "ivanristic",
   "in_reply_to_user_id_str" : "19941586",
   "user" : {
@@ -505,7 +491,7 @@ Grailbird.data.tweets_2013_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joey Marburger ",
+      "name" : "Joey Marburger",
       "screen_name" : "josephjames",
       "indices" : [ 3, 15 ],
       "id_str" : "5511492",
@@ -520,8 +506,7 @@ Grailbird.data.tweets_2013_03 =
       "display_url" : "vimeo.com/m/61275290"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "313619569816240128",
   "text" : "RT @josephjames: Going paperless. Hilarious commercial. http://t.co/EowlBYy5FK",
   "retweeted_status" : {
@@ -537,24 +522,23 @@ Grailbird.data.tweets_2013_03 =
         "display_url" : "vimeo.com/m/61275290"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "313462936716840960",
     "text" : "Going paperless. Hilarious commercial. http://t.co/EowlBYy5FK",
     "id" : 313462936716840960,
-    "created_at" : "Mon Mar 18 01:32:42 +0000 2013",
+    "created_at" : "2013-03-18 01:32:42 +0000",
     "user" : {
-      "name" : "Joey Marburger ",
+      "name" : "Joey Marburger",
       "screen_name" : "josephjames",
       "protected" : false,
       "id_str" : "5511492",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2849872934/13a488168554368c96a50102ecd8bfaa_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000503123344/c8997ef3fe604069aedba97ea9a16729_normal.jpeg",
       "id" : 5511492,
       "verified" : false
     }
   },
   "id" : 313619569816240128,
-  "created_at" : "Mon Mar 18 11:55:06 +0000 2013",
+  "created_at" : "2013-03-18 11:55:06 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -579,14 +563,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "312189039337951232",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "312190939877744640",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard Wake up! Wake up!",
   "id" : 312190939877744640,
   "in_reply_to_status_id" : 312189039337951232,
-  "created_at" : "Thu Mar 14 13:18:14 +0000 2013",
+  "created_at" : "2013-03-14 13:18:14 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -612,12 +595,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "312158488681918465",
   "text" : "Wow. \"@CNNNewsource: BREAKING: Another Carnival cruise ship may be without power in the Caribbean.\"",
   "id" : 312158488681918465,
-  "created_at" : "Thu Mar 14 11:09:17 +0000 2013",
+  "created_at" : "2013-03-14 11:09:17 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -640,12 +622,11 @@ Grailbird.data.tweets_2013_03 =
       "display_url" : "automatic.com"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "311464009545154560",
   "text" : "Connect your car and smartphone. This looks awesome! http://t.co/rlNBnKGCyi",
   "id" : 311464009545154560,
-  "created_at" : "Tue Mar 12 13:09:41 +0000 2013",
+  "created_at" : "2013-03-12 13:09:41 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -669,12 +650,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "311453413961515008",
   "text" : "Very cool! \"@GerryDick: Indianapolis International Airport named 2012 best airport in North America by Airports Council International.\"",
   "id" : 311453413961515008,
-  "created_at" : "Tue Mar 12 12:27:35 +0000 2013",
+  "created_at" : "2013-03-12 12:27:35 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -698,12 +678,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "311453248282324992",
   "text" : "Why can't I quote a tweet from the @twitter website, but I can from the web app?",
   "id" : 311453248282324992,
-  "created_at" : "Tue Mar 12 12:26:55 +0000 2013",
+  "created_at" : "2013-03-12 12:26:55 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -728,14 +707,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "310071633551425536",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "310072675550769154",
   "in_reply_to_user_id" : 15789234,
   "text" : "@scottradcliff I have. Very annoying and gutsy.",
   "id" : 310072675550769154,
   "in_reply_to_status_id" : 310071633551425536,
-  "created_at" : "Fri Mar 08 17:01:01 +0000 2013",
+  "created_at" : "2013-03-08 17:01:01 +0000",
   "in_reply_to_screen_name" : "scottradcliff",
   "in_reply_to_user_id_str" : "15789234",
   "user" : {
@@ -762,14 +740,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "310059891278639106",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "310072220498153472",
   "in_reply_to_user_id" : 1182631,
   "text" : "@jonmagic sounds like that's what He's saying...?",
   "id" : 310072220498153472,
   "in_reply_to_status_id" : 310059891278639106,
-  "created_at" : "Fri Mar 08 16:59:12 +0000 2013",
+  "created_at" : "2013-03-08 16:59:12 +0000",
   "in_reply_to_screen_name" : "jonmagic",
   "in_reply_to_user_id_str" : "1182631",
   "user" : {
@@ -798,8 +775,7 @@ Grailbird.data.tweets_2013_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "309995365405437952",
   "text" : "RT @CSLewisDaily: There is but one good; that is God. Everything else is good when it looks to Him &amp; bad when it turns from Him. #CS ...",
   "retweeted_status" : {
@@ -813,12 +789,11 @@ Grailbird.data.tweets_2013_03 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "309966676881973248",
     "text" : "There is but one good; that is God. Everything else is good when it looks to Him &amp; bad when it turns from Him. #CSLewis",
     "id" : 309966676881973248,
-    "created_at" : "Fri Mar 08 09:59:49 +0000 2013",
+    "created_at" : "2013-03-08 09:59:49 +0000",
     "user" : {
       "name" : "C. S. Lewis",
       "screen_name" : "CSLewisDaily",
@@ -830,7 +805,7 @@ Grailbird.data.tweets_2013_03 =
     }
   },
   "id" : 309995365405437952,
-  "created_at" : "Fri Mar 08 11:53:49 +0000 2013",
+  "created_at" : "2013-03-08 11:53:49 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -862,13 +837,12 @@ Grailbird.data.tweets_2013_03 =
       "display_url" : "fixthedmca.org"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "309364908494053376",
   "in_reply_to_user_id" : 17544524,
   "text" : "@ToddRokita, I'm one of your constituents. Please fix the DMCA to make unlocking legal.  #FixTheDMCA http://t.co/2x4cV6dq5X",
   "id" : 309364908494053376,
-  "created_at" : "Wed Mar 06 18:08:36 +0000 2013",
+  "created_at" : "2013-03-06 18:08:36 +0000",
   "in_reply_to_screen_name" : "ToddRokita",
   "in_reply_to_user_id_str" : "17544524",
   "user" : {
@@ -900,12 +874,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "309349218366132224",
   "text" : "What is the right way to show the one latest tweet on a website with the new @twitter API? /cc @twitterapi",
   "id" : 309349218366132224,
-  "created_at" : "Wed Mar 06 17:06:15 +0000 2013",
+  "created_at" : "2013-03-06 17:06:15 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -935,14 +908,13 @@ Grailbird.data.tweets_2013_03 =
     } ]
   },
   "in_reply_to_status_id_str" : "309296565787430912",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "309307854593081344",
   "in_reply_to_user_id" : 11071302,
   "text" : "@PeteThePlanner Speaking of girl scout cookies... saw this yesterday: https://t.co/FLYu4Hkeae",
   "id" : 309307854593081344,
   "in_reply_to_status_id" : 309296565787430912,
-  "created_at" : "Wed Mar 06 14:21:53 +0000 2013",
+  "created_at" : "2013-03-06 14:21:53 +0000",
   "in_reply_to_screen_name" : "PeteThePlanner",
   "in_reply_to_user_id_str" : "11071302",
   "user" : {
@@ -962,12 +934,11 @@ Grailbird.data.tweets_2013_03 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "308949799380582401",
   "text" : "Trying Gem in a Box for our private gems today. Pretty good so far, but getting some upload errors from cli. hmm.",
   "id" : 308949799380582401,
-  "created_at" : "Tue Mar 05 14:39:06 +0000 2013",
+  "created_at" : "2013-03-05 14:39:06 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
@@ -992,14 +963,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "308664808633413633",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "308665824133128193",
   "in_reply_to_user_id" : 26639826,
   "text" : "@codatory A nice UI on top of dropbox would be nice. With markdown support.",
   "id" : 308665824133128193,
   "in_reply_to_status_id" : 308664808633413633,
-  "created_at" : "Mon Mar 04 19:50:41 +0000 2013",
+  "created_at" : "2013-03-04 19:50:41 +0000",
   "in_reply_to_screen_name" : "codatory",
   "in_reply_to_user_id_str" : "26639826",
   "user" : {
@@ -1026,14 +996,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "308624355917701120",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "308624546548813824",
   "in_reply_to_user_id" : 113223946,
   "text" : "@_swanson Gotcha. We've got a simple use case (simple hash of data) and control all aspects.",
   "id" : 308624546548813824,
   "in_reply_to_status_id" : 308624355917701120,
-  "created_at" : "Mon Mar 04 17:06:40 +0000 2013",
+  "created_at" : "2013-03-04 17:06:40 +0000",
   "in_reply_to_screen_name" : "_swanson",
   "in_reply_to_user_id_str" : "113223946",
   "user" : {
@@ -1060,14 +1029,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "306586972711968769",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "308572428186030080",
   "in_reply_to_user_id" : 113223946,
   "text" : "@_swanson What's so bad about liquid? I'm thinking about using it for something.",
   "id" : 308572428186030080,
   "in_reply_to_status_id" : 306586972711968769,
-  "created_at" : "Mon Mar 04 13:39:34 +0000 2013",
+  "created_at" : "2013-03-04 13:39:34 +0000",
   "in_reply_to_screen_name" : "_swanson",
   "in_reply_to_user_id_str" : "113223946",
   "user" : {
@@ -1094,14 +1062,13 @@ Grailbird.data.tweets_2013_03 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "307878159158759425",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "307896891847344128",
   "in_reply_to_user_id" : 25692569,
   "text" : "@msnygaard How did you know? We hadn't told anyone yet...",
   "id" : 307896891847344128,
   "in_reply_to_status_id" : 307878159158759425,
-  "created_at" : "Sat Mar 02 16:55:14 +0000 2013",
+  "created_at" : "2013-03-02 16:55:14 +0000",
   "in_reply_to_screen_name" : "msnygaard",
   "in_reply_to_user_id_str" : "25692569",
   "user" : {
@@ -1133,8 +1100,7 @@ Grailbird.data.tweets_2013_03 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "307465448016998401",
   "text" : "RT @katieradcliffe: The world just seems so popeless!!! #ivebeenwaitingtotweetthis #punny",
   "retweeted_status" : {
@@ -1151,12 +1117,11 @@ Grailbird.data.tweets_2013_03 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "307331523852529664",
     "text" : "The world just seems so popeless!!! #ivebeenwaitingtotweetthis #punny",
     "id" : 307331523852529664,
-    "created_at" : "Fri Mar 01 03:28:39 +0000 2013",
+    "created_at" : "2013-03-01 03:28:39 +0000",
     "user" : {
       "name" : "Katie Radcliffe",
       "screen_name" : "katieradcliffe",
@@ -1168,7 +1133,7 @@ Grailbird.data.tweets_2013_03 =
     }
   },
   "id" : 307465448016998401,
-  "created_at" : "Fri Mar 01 12:20:49 +0000 2013",
+  "created_at" : "2013-03-01 12:20:49 +0000",
   "user" : {
     "name" : "David Radcliffe",
     "screen_name" : "dwradcliffe",
