@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_03 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "CrashPlan",
@@ -32,12 +32,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -46,7 +46,7 @@ Grailbird.data.tweets_2011_03 =
   },
   "geo" : { },
   "id_str" : "53435801639469056",
-  "text" : "Thank you 1&1. Worst provider ever. https://img.skitch.com/20110331-cmw8fc5x2y76mredqjakuj3xji.png",
+  "text" : "Thank you 1&1. Worst provider ever. https:\/\/img.skitch.com\/20110331-cmw8fc5x2y76mredqjakuj3xji.png",
   "id" : 53435801639469056,
   "created_at" : "2011-03-31 12:37:42 +0000",
   "user" : {
@@ -54,12 +54,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Webbynode",
@@ -85,12 +85,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rob Foster",
@@ -118,12 +118,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -140,12 +140,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -162,12 +162,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Krewson",
@@ -197,9 +197,9 @@ Grailbird.data.tweets_2011_03 =
   },
   "geo" : { },
   "id_str" : "48530037984604160",
-  "text" : "RT @ckrewson: RT @lorikozlowski Satellite images of #Japan, before and after the earthquake: http://lat.ms/gbiL61 (via @emamd) - Simple, ...",
+  "text" : "RT @ckrewson: RT @lorikozlowski Satellite images of #Japan, before and after the earthquake: http:\/\/lat.ms\/gbiL61 (via @emamd) - Simple, ...",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Lori Kozlowski",
@@ -223,7 +223,7 @@ Grailbird.data.tweets_2011_03 =
     },
     "geo" : { },
     "id_str" : "48525389663977472",
-    "text" : "RT @lorikozlowski Satellite images of #Japan, before and after the earthquake: http://lat.ms/gbiL61 (via @emamd) - Simple, elegant, powerful",
+    "text" : "RT @lorikozlowski Satellite images of #Japan, before and after the earthquake: http:\/\/lat.ms\/gbiL61 (via @emamd) - Simple, elegant, powerful",
     "id" : 48525389663977472,
     "created_at" : "2011-03-17 23:25:29 +0000",
     "user" : {
@@ -231,7 +231,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "ckrewson",
       "protected" : false,
       "id_str" : "3362721",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/56997646/editor_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/56997646\/editor_normal.jpg",
       "id" : 3362721,
       "verified" : true
     }
@@ -243,12 +243,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ducksboard",
@@ -261,14 +261,14 @@ Grailbird.data.tweets_2011_03 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 89, 108 ],
-      "url" : "http://t.co/Gzk4WzV",
-      "expanded_url" : "http://ducksboard.com",
+      "url" : "http:\/\/t.co\/Gzk4WzV",
+      "expanded_url" : "http:\/\/ducksboard.com",
       "display_url" : "ducksboard.com"
     } ]
   },
   "geo" : { },
   "id_str" : "48051740616044547",
-  "text" : "Testing @ducksboard, a real-time dashboard for monitoring your web metrics and SaaS apps http://t.co/Gzk4WzV",
+  "text" : "Testing @ducksboard, a real-time dashboard for monitoring your web metrics and SaaS apps http:\/\/t.co\/Gzk4WzV",
   "id" : 48051740616044547,
   "created_at" : "2011-03-16 16:03:22 +0000",
   "user" : {
@@ -276,12 +276,12 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mike Brown",
@@ -309,15 +309,15 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phil Haack",
+      "name" : "Boom Haackalacka",
       "screen_name" : "haacked",
       "indices" : [ 0, 8 ],
       "id_str" : "768197",
@@ -342,7 +342,7 @@ Grailbird.data.tweets_2011_03 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }

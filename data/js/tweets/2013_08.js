@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2013_08 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -17,12 +17,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -32,14 +32,14 @@ Grailbird.data.tweets_2013_08 =
     } ],
     "urls" : [ {
       "indices" : [ 76, 98 ],
-      "url" : "http://t.co/GUYmJkiknf",
-      "expanded_url" : "http://community.opscode.com/cookbooks/incron",
-      "display_url" : "community.opscode.com/cookbooks/incr\u2026"
+      "url" : "http:\/\/t.co\/GUYmJkiknf",
+      "expanded_url" : "http:\/\/community.opscode.com\/cookbooks\/incron",
+      "display_url" : "community.opscode.com\/cookbooks\/incr\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "370963008333180929",
-  "text" : "Just released a #chef cookbook for managing incron (cron for file changes). http://t.co/GUYmJkiknf",
+  "text" : "Just released a #chef cookbook for managing incron (cron for file changes). http:\/\/t.co\/GUYmJkiknf",
   "id" : 370963008333180929,
   "created_at" : "2013-08-23 17:37:28 +0000",
   "user" : {
@@ -47,12 +47,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matthew Nygaard",
@@ -65,15 +65,15 @@ Grailbird.data.tweets_2013_08 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 36, 58 ],
-      "url" : "http://t.co/IR0dmc3plZ",
-      "expanded_url" : "http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/",
-      "display_url" : "coding2learn.org/blog/2013/07/2\u2026"
+      "url" : "http:\/\/t.co\/IR0dmc3plZ",
+      "expanded_url" : "http:\/\/www.coding2learn.org\/blog\/2013\/07\/29\/kids-cant-use-computers\/",
+      "display_url" : "coding2learn.org\/blog\/2013\/07\/2\u2026"
     } ]
   },
   "geo" : { },
   "id_str" : "365901776085458944",
   "in_reply_to_user_id" : 25692569,
-  "text" : "@msnygaard Kids can't use computers http://t.co/IR0dmc3plZ",
+  "text" : "@msnygaard Kids can't use computers http:\/\/t.co\/IR0dmc3plZ",
   "id" : 365901776085458944,
   "created_at" : "2013-08-09 18:25:56 +0000",
   "in_reply_to_screen_name" : "msnygaard",
@@ -83,12 +83,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sam Kottler",
@@ -116,12 +116,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Wes Harris",
@@ -149,12 +149,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Erik Michaels-Ober",
@@ -188,12 +188,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Erik Michaels-Ober",
@@ -227,12 +227,12 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Brandon Ferguson",
@@ -258,26 +258,26 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
+  "source" : "\u003Ca href=\"https:\/\/dev.twitter.com\/docs\/tfw\" rel=\"nofollow\"\u003ETwitter for Websites\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 115, 137 ],
-      "url" : "http://t.co/i8vgPy1bGZ",
-      "expanded_url" : "http://nyti.ms/17Jbk6l",
-      "display_url" : "nyti.ms/17Jbk6l"
+      "url" : "http:\/\/t.co\/i8vgPy1bGZ",
+      "expanded_url" : "http:\/\/nyti.ms\/17Jbk6l",
+      "display_url" : "nyti.ms\/17Jbk6l"
     } ]
   },
   "geo" : { },
   "id_str" : "362942787580211200",
-  "text" : "This is awesome! Wish we would see more of this. \"In Lieu of Money, Toyota Donates Efficiency to New York Charity\" http://t.co/i8vgPy1bGZ",
+  "text" : "This is awesome! Wish we would see more of this. \"In Lieu of Money, Toyota Donates Efficiency to New York Charity\" http:\/\/t.co\/i8vgPy1bGZ",
   "id" : 362942787580211200,
   "created_at" : "2013-08-01 14:27:58 +0000",
   "user" : {
@@ -285,7 +285,7 @@ Grailbird.data.tweets_2013_08 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }

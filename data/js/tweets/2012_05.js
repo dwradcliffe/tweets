@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_05 = 
  [ {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Katie Radcliffe",
@@ -23,12 +23,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Airbrakeapp",
@@ -54,12 +54,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -79,12 +79,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "USAA",
@@ -107,12 +107,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matthew Nygaard",
@@ -140,12 +140,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Mike Rogers",
@@ -173,15 +173,15 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Richard Schneeman",
+      "name" : "goto: KeepRubyWeird",
       "screen_name" : "schneems",
       "indices" : [ 3, 12 ],
       "id_str" : "23621187",
@@ -189,35 +189,40 @@ Grailbird.data.tweets_2012_05 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/iCVwInI9",
+      "expanded_url" : "http:\/\/tmblr.co\/Zsci_xLxJwIM",
+      "display_url" : "tmblr.co\/Zsci_xLxJwIM"
+    } ]
   },
   "geo" : { },
   "id_str" : "204953723053674497",
-  "text" : "RT @schneems: Sextant: A Gem to Help you Find your Routes - News flash, writing a Rails app without knowing your routes is... http://t.c ...",
+  "text" : "RT @schneems: Sextant: A Gem to Help you Find your Routes - News flash, writing a Rails app without knowing your routes is... http:\/\/t.c ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 112, 132 ],
-        "url" : "http://t.co/iCVwInI9",
-        "expanded_url" : "http://tmblr.co/Zsci_xLxJwIM",
-        "display_url" : "tmblr.co/Zsci_xLxJwIM"
+        "url" : "http:\/\/t.co\/iCVwInI9",
+        "expanded_url" : "http:\/\/tmblr.co\/Zsci_xLxJwIM",
+        "display_url" : "tmblr.co\/Zsci_xLxJwIM"
       } ]
     },
     "geo" : { },
     "id_str" : "204934953979478016",
-    "text" : "Sextant: A Gem to Help you Find your Routes - News flash, writing a Rails app without knowing your routes is... http://t.co/iCVwInI9",
+    "text" : "Sextant: A Gem to Help you Find your Routes - News flash, writing a Rails app without knowing your routes is... http:\/\/t.co\/iCVwInI9",
     "id" : 204934953979478016,
     "created_at" : "2012-05-22 14:01:15 +0000",
     "user" : {
-      "name" : "Richard Schneeman",
+      "name" : "goto: KeepRubyWeird",
       "screen_name" : "schneems",
       "protected" : false,
       "id_str" : "23621187",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2198945364/Screen_Shot_2012-04-17_at_1.44.21_PM_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475413152838848512\/fTOESg1A_normal.jpeg",
       "id" : 23621187,
       "verified" : false
     }
@@ -229,21 +234,21 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 42, 62 ],
-      "url" : "http://t.co/s5X5mpMq",
-      "expanded_url" : "http://instagr.am/p/K7oYNnATRu/",
-      "display_url" : "instagr.am/p/K7oYNnATRu/"
+      "url" : "http:\/\/t.co\/s5X5mpMq",
+      "expanded_url" : "http:\/\/instagr.am\/p\/K7oYNnATRu\/",
+      "display_url" : "instagr.am\/p\/K7oYNnATRu\/"
     } ]
   },
   "geo" : {
@@ -251,7 +256,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 39.8489102116, -86.1413864036 ]
   },
   "id_str" : "204937273656094721",
-  "text" : "My view for the morning  @ The Speak Easy http://t.co/s5X5mpMq",
+  "text" : "My view for the morning  @ The Speak Easy http:\/\/t.co\/s5X5mpMq",
   "id" : 204937273656094721,
   "created_at" : "2012-05-22 14:10:28 +0000",
   "user" : {
@@ -259,12 +264,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Katie Radcliffe",
@@ -274,14 +279,20 @@ Grailbird.data.tweets_2012_05 =
       "id" : 41511808
     } ],
     "media" : [ ],
-    "hashtags" : [ ],
+    "hashtags" : [ {
+      "text" : "hulksmash",
+      "indices" : [ 139, 140 ]
+    }, {
+      "text" : "jarvis",
+      "indices" : [ 139, 140 ]
+    } ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "203681289616896000",
   "text" : "RT @katieradcliffe: Avengers was great. This superhero nut is pleased. Gimme a good old fashioned brawl and some quick wit and im all in ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -304,7 +315,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "katieradcliffe",
       "protected" : false,
       "id_str" : "41511808",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3330737319/c9b203aea95dabfca680834028de50fb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3330737319\/c9b203aea95dabfca680834028de50fb_normal.jpeg",
       "id" : 41511808,
       "verified" : false
     }
@@ -316,12 +327,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -338,21 +349,21 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 33, 53 ],
-      "url" : "http://t.co/OE7uUnoK",
-      "expanded_url" : "http://instagr.am/p/KgLWD_gTRg/",
-      "display_url" : "instagr.am/p/KgLWD_gTRg/"
+      "url" : "http:\/\/t.co\/OE7uUnoK",
+      "expanded_url" : "http:\/\/instagr.am\/p\/KgLWD_gTRg\/",
+      "display_url" : "instagr.am\/p\/KgLWD_gTRg\/"
     } ]
   },
   "geo" : {
@@ -360,7 +371,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 39.7645769079, -86.4004433155 ]
   },
   "id_str" : "201073287055417345",
-  "text" : "Date with my wife!!  @ Charbonos http://t.co/OE7uUnoK",
+  "text" : "Date with my wife!!  @ Charbonos http:\/\/t.co\/OE7uUnoK",
   "id" : 201073287055417345,
   "created_at" : "2012-05-11 22:16:22 +0000",
   "user" : {
@@ -368,12 +379,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GitHub",
@@ -399,12 +410,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Hugo Bonacci",
@@ -432,12 +443,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Carlos Whittaker",
@@ -465,21 +476,21 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "source" : "\u003Ca href=\"http:\/\/instagram.com\" rel=\"nofollow\"\u003EInstagram\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 70, 90 ],
-      "url" : "http://t.co/8dv20weT",
-      "expanded_url" : "http://instagr.am/p/KdoN2wgTYq/",
-      "display_url" : "instagr.am/p/KdoN2wgTYq/"
+      "url" : "http:\/\/t.co\/8dv20weT",
+      "expanded_url" : "http:\/\/instagr.am\/p\/KdoN2wgTYq\/",
+      "display_url" : "instagr.am\/p\/KdoN2wgTYq\/"
     } ]
   },
   "geo" : {
@@ -487,7 +498,7 @@ Grailbird.data.tweets_2012_05 =
     "coordinates" : [ 39.7627615929, -86.357109 ]
   },
   "id_str" : "200714571311349760",
-  "text" : "Rescuing my wife's keys from the hot locked car...  @ Monical's Pizza http://t.co/8dv20weT",
+  "text" : "Rescuing my wife's keys from the hot locked car...  @ Monical's Pizza http:\/\/t.co\/8dv20weT",
   "id" : 200714571311349760,
   "created_at" : "2012-05-10 22:30:57 +0000",
   "user" : {
@@ -495,12 +506,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Steve Gladen",
@@ -528,12 +539,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zach Holman",
@@ -550,7 +561,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "200414466502955008",
   "text" : "RT @holman: Your product will never make everyone happy. So focus on exciting a subset of everyone. They'll handle the rest.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -567,7 +578,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "holman",
       "protected" : false,
       "id_str" : "11322372",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1444317557/holman_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478434515916824576\/y_0DGc0F_normal.jpeg",
       "id" : 11322372,
       "verified" : false
     }
@@ -579,12 +590,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "GitHub",
@@ -612,12 +623,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ryan Seddon",
@@ -634,7 +645,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "200178013361553408",
   "text" : "RT @ryanseddon: Dear MSFT: Ship IE10 already. Kill off IE6-9. With Fire. Only then will folks stop posting about unsupporting IE and cal ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -651,7 +662,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "ryanseddon",
       "protected" : false,
       "id_str" : "16219635",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1402272816/headshot1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/487037479078227969\/j2TTmx2H_normal.jpeg",
       "id" : 16219635,
       "verified" : false
     }
@@ -663,12 +674,12 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Spotify",
@@ -681,14 +692,14 @@ Grailbird.data.tweets_2012_05 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 118, 138 ],
-      "url" : "http://t.co/z0w6kZ1V",
-      "expanded_url" : "http://spoti.fi/spotifyipad",
-      "display_url" : "spoti.fi/spotifyipad"
+      "url" : "http:\/\/t.co\/z0w6kZ1V",
+      "expanded_url" : "http:\/\/spoti.fi\/spotifyipad",
+      "display_url" : "spoti.fi\/spotifyipad"
     } ]
   },
   "geo" : { },
   "id_str" : "197658780568268800",
-  "text" : "Finally! \"@Spotify: Introducing the lean, green, music machine \u2013 Spotify for iPad. It\u2019s here. It\u2019s beautiful. Try it. http://t.co/z0w6kZ1V\"",
+  "text" : "Finally! \"@Spotify: Introducing the lean, green, music machine \u2013 Spotify for iPad. It\u2019s here. It\u2019s beautiful. Try it. http:\/\/t.co\/z0w6kZ1V\"",
   "id" : 197658780568268800,
   "created_at" : "2012-05-02 12:08:20 +0000",
   "user" : {
@@ -696,7 +707,7 @@ Grailbird.data.tweets_2012_05 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }

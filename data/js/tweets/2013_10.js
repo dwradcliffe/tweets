@@ -1,6 +1,701 @@
 Grailbird.data.tweets_2013_10 = 
-[ {
-  "source" : "web",
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "inwx",
+      "indices" : [ 48, 53 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 39.7693948215, -86.3893929497 ]
+  },
+  "id_str" : "396089389677174784",
+  "text" : "Crazy wind and the power flickered here in Avon #inwx",
+  "id" : 396089389677174784,
+  "created_at" : "2013-11-01 01:40:44 +0000",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "395591526991929344",
+  "text" : "If you're a recruiter and you require experience with a specific Rails patch version, you're going directly to the spam folder.",
+  "id" : 395591526991929344,
+  "created_at" : "2013-10-30 16:42:24 +0000",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Miles Z. Sterrett",
+      "screen_name" : "mileszs",
+      "indices" : [ 0, 8 ],
+      "id_str" : "11781862",
+      "id" : 11781862
+    }, {
+      "name" : "James Kubecki",
+      "screen_name" : "jkubecki",
+      "indices" : [ 9, 18 ],
+      "id_str" : "48789556",
+      "id" : 48789556
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "395144051722174464",
+  "geo" : { },
+  "id_str" : "395156908555763712",
+  "in_reply_to_user_id" : 11781862,
+  "text" : "@mileszs @jkubecki Syntax highlighting seems to be broken though. I keep seeing html randomly.",
+  "id" : 395156908555763712,
+  "in_reply_to_status_id" : 395144051722174464,
+  "created_at" : "2013-10-29 11:55:23 +0000",
+  "in_reply_to_screen_name" : "mileszs",
+  "in_reply_to_user_id_str" : "11781862",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Eric Hodel",
+      "screen_name" : "drbrain",
+      "indices" : [ 0, 8 ],
+      "id_str" : "670283",
+      "id" : 670283
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "393159768455778304",
+  "geo" : { },
+  "id_str" : "393355044394766338",
+  "in_reply_to_user_id" : 670283,
+  "text" : "@drbrain I'm curious how you manage your rubies?",
+  "id" : 393355044394766338,
+  "in_reply_to_status_id" : 393159768455778304,
+  "created_at" : "2013-10-24 12:35:25 +0000",
+  "in_reply_to_screen_name" : "drbrain",
+  "in_reply_to_user_id_str" : "670283",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "393004590594945025",
+  "text" : "Always fun to find directories named \"oldsite\" and \"oldsite2\" on the production server...",
+  "id" : 393004590594945025,
+  "created_at" : "2013-10-23 13:22:50 +0000",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joel Moss",
+      "screen_name" : "joelmoss",
+      "indices" : [ 0, 9 ],
+      "id_str" : "867511",
+      "id" : 867511
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "391543474539204608",
+  "geo" : { },
+  "id_str" : "392695776456871936",
+  "in_reply_to_user_id" : 867511,
+  "text" : "@joelmoss What do you have in mind?",
+  "id" : 392695776456871936,
+  "in_reply_to_status_id" : 391543474539204608,
+  "created_at" : "2013-10-22 16:55:43 +0000",
+  "in_reply_to_screen_name" : "joelmoss",
+  "in_reply_to_user_id_str" : "867511",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Beazer Homes",
+      "screen_name" : "BeazerHomes",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15868995",
+      "id" : 15868995
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "392689270408110080",
+  "geo" : { },
+  "id_str" : "392695665291034625",
+  "in_reply_to_user_id" : 15868995,
+  "text" : "@BeazerHomes There are lots of real spiders in my new Beazer home :)",
+  "id" : 392695665291034625,
+  "in_reply_to_status_id" : 392689270408110080,
+  "created_at" : "2013-10-22 16:55:17 +0000",
+  "in_reply_to_screen_name" : "BeazerHomes",
+  "in_reply_to_user_id_str" : "15868995",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joel Moss",
+      "screen_name" : "joelmoss",
+      "indices" : [ 0, 9 ],
+      "id_str" : "867511",
+      "id" : 867511
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "391500041841823744",
+  "geo" : { },
+  "id_str" : "391543025823793154",
+  "in_reply_to_user_id" : 867511,
+  "text" : "@joelmoss I do mostly ... With Chef-solo.",
+  "id" : 391543025823793154,
+  "in_reply_to_status_id" : 391500041841823744,
+  "created_at" : "2013-10-19 12:35:06 +0000",
+  "in_reply_to_screen_name" : "joelmoss",
+  "in_reply_to_user_id_str" : "867511",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "391187300605915136",
+  "text" : "My read later option is gone in the twitter app. :(",
+  "id" : 391187300605915136,
+  "created_at" : "2013-10-18 13:01:35 +0000",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stefan Daschek",
+      "screen_name" : "noniq",
+      "indices" : [ 0, 6 ],
+      "id_str" : "17576232",
+      "id" : 17576232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390936397794017281",
+  "geo" : { },
+  "id_str" : "390954639559897088",
+  "in_reply_to_user_id" : 17576232,
+  "text" : "@noniq You're welcome!",
+  "id" : 390954639559897088,
+  "in_reply_to_status_id" : 390936397794017281,
+  "created_at" : "2013-10-17 21:37:04 +0000",
+  "in_reply_to_screen_name" : "noniq",
+  "in_reply_to_user_id_str" : "17576232",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stefan Daschek",
+      "screen_name" : "noniq",
+      "indices" : [ 0, 6 ],
+      "id_str" : "17576232",
+      "id" : 17576232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390920488530477056",
+  "geo" : { },
+  "id_str" : "390936212749299712",
+  "in_reply_to_user_id" : 17576232,
+  "text" : "@noniq Amazon updated their certs recently",
+  "id" : 390936212749299712,
+  "in_reply_to_status_id" : 390920488530477056,
+  "created_at" : "2013-10-17 20:23:51 +0000",
+  "in_reply_to_screen_name" : "noniq",
+  "in_reply_to_user_id_str" : "17576232",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Stefan Daschek",
+      "screen_name" : "noniq",
+      "indices" : [ 0, 6 ],
+      "id_str" : "17576232",
+      "id" : 17576232
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 17, 39 ],
+      "url" : "http:\/\/t.co\/JV2nIpeYMs",
+      "expanded_url" : "http:\/\/stackoverflow.com\/questions\/19150017\/ssl-error-when-installing-rubygems-unable-to-pull-data-from-https-rubygems-o\/19151697#19151697",
+      "display_url" : "stackoverflow.com\/questions\/1915\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "390850898412711936",
+  "geo" : { },
+  "id_str" : "390917459370205184",
+  "in_reply_to_user_id" : 17576232,
+  "text" : "@noniq Try this: http:\/\/t.co\/JV2nIpeYMs",
+  "id" : 390917459370205184,
+  "in_reply_to_status_id" : 390850898412711936,
+  "created_at" : "2013-10-17 19:09:19 +0000",
+  "in_reply_to_screen_name" : "noniq",
+  "in_reply_to_user_id_str" : "17576232",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Peter Dunn",
+      "screen_name" : "PeteThePlanner",
+      "indices" : [ 0, 15 ],
+      "id_str" : "11071302",
+      "id" : 11071302
+    }, {
+      "name" : "GitHub",
+      "screen_name" : "github",
+      "indices" : [ 32, 39 ],
+      "id_str" : "13334762",
+      "id" : 13334762
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390846590652796929",
+  "geo" : { },
+  "id_str" : "390847809714274305",
+  "in_reply_to_user_id" : 11071302,
+  "text" : "@PeteThePlanner They should use @github!",
+  "id" : 390847809714274305,
+  "in_reply_to_status_id" : 390846590652796929,
+  "created_at" : "2013-10-17 14:32:34 +0000",
+  "in_reply_to_screen_name" : "PeteThePlanner",
+  "in_reply_to_user_id_str" : "11071302",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WISH-TV",
+      "screen_name" : "WISH_TV",
+      "indices" : [ 0, 8 ],
+      "id_str" : "16285710",
+      "id" : 16285710
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "390593002961240065",
+  "in_reply_to_user_id" : 16285710,
+  "text" : "@WISH_TV Why is the Mentalist always late 15 minutes? And why is it only scheduled for 30 minutes on your website?",
+  "id" : 390593002961240065,
+  "created_at" : "2013-10-16 21:40:03 +0000",
+  "in_reply_to_screen_name" : "WISH_TV",
+  "in_reply_to_user_id_str" : "16285710",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "(mt) Media Temple",
+      "screen_name" : "mediatemple",
+      "indices" : [ 0, 12 ],
+      "id_str" : "684983",
+      "id" : 684983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390457690369314816",
+  "geo" : { },
+  "id_str" : "390459936133480448",
+  "in_reply_to_user_id" : 684983,
+  "text" : "@mediatemple Interesting. Looks like there might be some change happening, but still hard to change my mind after years of bad experiences.",
+  "id" : 390459936133480448,
+  "in_reply_to_status_id" : 390457690369314816,
+  "created_at" : "2013-10-16 12:51:17 +0000",
+  "in_reply_to_screen_name" : "mediatemple",
+  "in_reply_to_user_id_str" : "684983",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "(mt) Media Temple",
+      "screen_name" : "mediatemple",
+      "indices" : [ 0, 12 ],
+      "id_str" : "684983",
+      "id" : 684983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390456200942616576",
+  "geo" : { },
+  "id_str" : "390456918558265344",
+  "in_reply_to_user_id" : 684983,
+  "text" : "@mediatemple Quite simply I won't do business with Go Daddy.",
+  "id" : 390456918558265344,
+  "in_reply_to_status_id" : 390456200942616576,
+  "created_at" : "2013-10-16 12:39:18 +0000",
+  "in_reply_to_screen_name" : "mediatemple",
+  "in_reply_to_user_id_str" : "684983",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "(mt) Media Temple",
+      "screen_name" : "mediatemple",
+      "indices" : [ 18, 30 ],
+      "id_str" : "684983",
+      "id" : 684983
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "390455968485474304",
+  "text" : "Sad to hear about @mediatemple. It was a great company, but I won't do business with them anymore.",
+  "id" : 390455968485474304,
+  "created_at" : "2013-10-16 12:35:31 +0000",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "goto: KeepRubyWeird",
+      "screen_name" : "schneems",
+      "indices" : [ 0, 9 ],
+      "id_str" : "23621187",
+      "id" : 23621187
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390263673425371136",
+  "geo" : { },
+  "id_str" : "390284007662829568",
+  "in_reply_to_user_id" : 23621187,
+  "text" : "@schneems It should be fixed now. Try again. So sorry!",
+  "id" : 390284007662829568,
+  "in_reply_to_status_id" : 390263673425371136,
+  "created_at" : "2013-10-16 01:12:13 +0000",
+  "in_reply_to_screen_name" : "schneems",
+  "in_reply_to_user_id_str" : "23621187",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "rubygems",
+      "indices" : [ 102, 111 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "390283692880326656",
+  "text" : "If you had trouble pushing gems, try again. Our load balancer had a little trouble for a few minutes. #rubygems",
+  "id" : 390283692880326656,
+  "created_at" : "2013-10-16 01:10:58 +0000",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "goto: KeepRubyWeird",
+      "screen_name" : "schneems",
+      "indices" : [ 0, 9 ],
+      "id_str" : "23621187",
+      "id" : 23621187
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390258732623347712",
+  "geo" : { },
+  "id_str" : "390278965169897472",
+  "in_reply_to_user_id" : 23621187,
+  "text" : "@schneems Logging in to take a look now.",
+  "id" : 390278965169897472,
+  "in_reply_to_status_id" : 390258732623347712,
+  "created_at" : "2013-10-16 00:52:11 +0000",
+  "in_reply_to_screen_name" : "schneems",
+  "in_reply_to_user_id_str" : "23621187",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aaron Patterson",
+      "screen_name" : "tenderlove",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14761655",
+      "id" : 14761655
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "390278280068087809",
+  "geo" : { },
+  "id_str" : "390278908118958081",
+  "in_reply_to_user_id" : 14761655,
+  "text" : "@tenderlove I'm logging in to take a look now.",
+  "id" : 390278908118958081,
+  "in_reply_to_status_id" : 390278280068087809,
+  "created_at" : "2013-10-16 00:51:57 +0000",
+  "in_reply_to_screen_name" : "tenderlove",
+  "in_reply_to_user_id_str" : "14761655",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Beth Giobbe",
+      "screen_name" : "bgiobbe",
+      "indices" : [ 0, 8 ],
+      "id_str" : "79629358",
+      "id" : 79629358
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 40, 62 ],
+      "url" : "http:\/\/t.co\/1CxXi2L4oc",
+      "expanded_url" : "http:\/\/stackoverflow.com\/questions\/19150017\/ssl-error-when-installing-rubygems-unable-to-pull-data-from-https-rubygems-o\/19151697#19151697",
+      "display_url" : "stackoverflow.com\/questions\/1915\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "389980118921117696",
+  "geo" : { },
+  "id_str" : "390265383271530496",
+  "in_reply_to_user_id" : 79629358,
+  "text" : "@bgiobbe Sorry I missed this. Try this: http:\/\/t.co\/1CxXi2L4oc",
+  "id" : 390265383271530496,
+  "in_reply_to_status_id" : 389980118921117696,
+  "created_at" : "2013-10-15 23:58:12 +0000",
+  "in_reply_to_screen_name" : "bgiobbe",
+  "in_reply_to_user_id_str" : "79629358",
+  "user" : {
+    "name" : "David Radcliffe",
+    "screen_name" : "dwradcliffe",
+    "protected" : false,
+    "id_str" : "19627341",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
+    "id" : 19627341,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nick Quaranto",
@@ -40,12 +735,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Nick Quaranto",
@@ -58,30 +753,30 @@ Grailbird.data.tweets_2013_10 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 21, 43 ],
-      "url" : "http://t.co/2bA9BVLhWr",
-      "expanded_url" : "http://rubygems.org",
+      "url" : "http:\/\/t.co\/2bA9BVLhWr",
+      "expanded_url" : "http:\/\/rubygems.org",
       "display_url" : "rubygems.org"
     } ]
   },
   "geo" : { },
   "id_str" : "389938444920557568",
-  "text" : "RT @qrush: We've got http://t.co/2bA9BVLhWr in maintenance mode. Enjoy some Hocus Pocus while we figure this out.",
+  "text" : "RT @qrush: We've got http:\/\/t.co\/2bA9BVLhWr in maintenance mode. Enjoy some Hocus Pocus while we figure this out.",
   "retweeted_status" : {
-    "source" : "web",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 10, 32 ],
-        "url" : "http://t.co/2bA9BVLhWr",
-        "expanded_url" : "http://rubygems.org",
+        "url" : "http:\/\/t.co\/2bA9BVLhWr",
+        "expanded_url" : "http:\/\/rubygems.org",
         "display_url" : "rubygems.org"
       } ]
     },
     "geo" : { },
     "id_str" : "389938009820258305",
-    "text" : "We've got http://t.co/2bA9BVLhWr in maintenance mode. Enjoy some Hocus Pocus while we figure this out.",
+    "text" : "We've got http:\/\/t.co\/2bA9BVLhWr in maintenance mode. Enjoy some Hocus Pocus while we figure this out.",
     "id" : 389938009820258305,
     "created_at" : "2013-10-15 02:17:20 +0000",
     "user" : {
@@ -89,7 +784,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "qrush",
       "protected" : false,
       "id_str" : "5743852",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458727351799386113\/sVNDVZfg_normal.png",
       "id" : 5743852,
       "verified" : false
     }
@@ -101,12 +796,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "D.C.",
@@ -134,12 +829,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "D.C.",
@@ -167,12 +862,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "D.C.",
@@ -198,12 +893,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Philip Kaplan",
@@ -216,15 +911,15 @@ Grailbird.data.tweets_2013_10 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 99, 121 ],
-      "url" : "http://t.co/Hdg9ocWLnI",
-      "expanded_url" : "http://distrokid.com/api/",
-      "display_url" : "distrokid.com/api/"
+      "url" : "http:\/\/t.co\/Hdg9ocWLnI",
+      "expanded_url" : "http:\/\/distrokid.com\/api\/",
+      "display_url" : "distrokid.com\/api\/"
     } ]
   },
   "geo" : { },
   "id_str" : "387912586282299392",
   "in_reply_to_user_id" : 107,
-  "text" : "@pud Your web server/framework is showing too much info on errors. Possible security issues there. http://t.co/Hdg9ocWLnI",
+  "text" : "@pud Your web server\/framework is showing too much info on errors. Possible security issues there. http:\/\/t.co\/Hdg9ocWLnI",
   "id" : 387912586282299392,
   "created_at" : "2013-10-09 12:09:02 +0000",
   "in_reply_to_screen_name" : "pud",
@@ -234,22 +929,22 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
-      "expanded_url" : "http://twitter.com/dwradcliffe/status/386124937179574272/photo/1",
+      "expanded_url" : "http:\/\/twitter.com\/dwradcliffe\/status\/386124937179574272\/photo\/1",
       "indices" : [ 33, 55 ],
-      "url" : "http://t.co/Mlx6ycVWwK",
-      "media_url" : "http://pbs.twimg.com/media/BVvKlZ2CYAACI2c.jpg",
+      "url" : "http:\/\/t.co\/Mlx6ycVWwK",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BVvKlZ2CYAACI2c.jpg",
       "id_str" : "386124937011814400",
       "id" : 386124937011814400,
-      "media_url_https" : "https://pbs.twimg.com/media/BVvKlZ2CYAACI2c.jpg",
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BVvKlZ2CYAACI2c.jpg",
       "sizes" : [ {
         "h" : 604,
         "resize" : "fit",
@@ -271,14 +966,14 @@ Grailbird.data.tweets_2013_10 =
         "resize" : "fit",
         "w" : 576
       } ],
-      "display_url" : "pic.twitter.com/Mlx6ycVWwK"
+      "display_url" : "pic.twitter.com\/Mlx6ycVWwK"
     } ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "386124937179574272",
-  "text" : "Siri fails more than it works :( http://t.co/Mlx6ycVWwK",
+  "text" : "Siri fails more than it works :( http:\/\/t.co\/Mlx6ycVWwK",
   "id" : 386124937179574272,
   "created_at" : "2013-10-04 13:45:33 +0000",
   "user" : {
@@ -286,12 +981,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Zendesk Operations",
@@ -317,12 +1012,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -345,12 +1040,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alex Conner",
@@ -378,12 +1073,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Cory Foy",
@@ -394,27 +1089,32 @@ Grailbird.data.tweets_2013_10 =
     } ],
     "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "https:\/\/t.co\/kWxhT65ns1",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/wiki\/Double_dissolution",
+      "display_url" : "en.wikipedia.org\/wiki\/Double_di\u2026"
+    } ]
   },
   "geo" : { },
   "id_str" : "385030162816827392",
-  "text" : "RT @cory_foy: Shutdown? In Australia, failing to pass a budget means automatic dissolution of the house/senate w/full reelections: https://\u2026",
+  "text" : "RT @cory_foy: Shutdown? In Australia, failing to pass a budget means automatic dissolution of the house\/senate w\/full reelections: https:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 117, 140 ],
-        "url" : "https://t.co/kWxhT65ns1",
-        "expanded_url" : "https://en.wikipedia.org/wiki/Double_dissolution",
-        "display_url" : "en.wikipedia.org/wiki/Double_di\u2026"
+        "url" : "https:\/\/t.co\/kWxhT65ns1",
+        "expanded_url" : "https:\/\/en.wikipedia.org\/wiki\/Double_dissolution",
+        "display_url" : "en.wikipedia.org\/wiki\/Double_di\u2026"
       } ]
     },
     "geo" : { },
     "id_str" : "385004202654576641",
-    "text" : "Shutdown? In Australia, failing to pass a budget means automatic dissolution of the house/senate w/full reelections: https://t.co/kWxhT65ns1",
+    "text" : "Shutdown? In Australia, failing to pass a budget means automatic dissolution of the house\/senate w\/full reelections: https:\/\/t.co\/kWxhT65ns1",
     "id" : 385004202654576641,
     "created_at" : "2013-10-01 11:32:09 +0000",
     "user" : {
@@ -422,7 +1122,7 @@ Grailbird.data.tweets_2013_10 =
       "screen_name" : "cory_foy",
       "protected" : false,
       "id_str" : "203878517",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000302147340/8a845508d2d9691ef5823b22a46a0fd0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/478898720331681792\/4zH57pwH_normal.jpeg",
       "id" : 203878517,
       "verified" : false
     }
@@ -434,12 +1134,12 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
 }, {
-  "source" : "web",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -462,7 +1162,7 @@ Grailbird.data.tweets_2013_10 =
     "screen_name" : "dwradcliffe",
     "protected" : false,
     "id_str" : "19627341",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/3211374432/0142a899989e313aa8401455e74a50da_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3211374432\/0142a899989e313aa8401455e74a50da_normal.png",
     "id" : 19627341,
     "verified" : false
   }
